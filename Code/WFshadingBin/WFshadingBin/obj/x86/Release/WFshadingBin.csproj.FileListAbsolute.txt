@@ -1,0 +1,49 @@
+C:\Users\Kovalevski\AppData\Local\Temporary Projects\WFshadingBin\bin\Release\WFshadingBin.exe
+C:\Users\Kovalevski\AppData\Local\Temporary Projects\WFshadingBin\bin\Release\WFshadingBin.pdb
+C:\Users\Kovalevski\AppData\Local\Temporary Projects\WFshadingBin\obj\x86\Release\WFshadingBin.Form1.resources
+C:\Users\Kovalevski\AppData\Local\Temporary Projects\WFshadingBin\obj\x86\Release\WFshadingBin.Properties.Resources.resources
+C:\Users\Kovalevski\AppData\Local\Temporary Projects\WFshadingBin\obj\x86\Release\WFshadingBin.csproj.GenerateResource.Cache
+C:\Users\Kovalevski\AppData\Local\Temporary Projects\WFshadingBin\obj\x86\Release\WFshadingBin.exe
+C:\Users\Kovalevski\AppData\Local\Temporary Projects\WFshadingBin\obj\x86\Release\WFshadingBin.pdb
+C:\Users\Kovalevski\documents\visual studio 2010\Projects\WFshadingBin\WFshadingBin\obj\x86\Release\WFshadingBin.exe
+C:\Users\Kovalevski\Documents\Visual Studio 2010\Projects\WFshadingBin\WFshadingBin\bin\Release\WFshadingBin.exe
+C:\Users\Kovalevski\Documents\Visual Studio 2010\Projects\WFshadingBin\WFshadingBin\bin\Release\WFshadingBin.pdb
+C:\Users\Kovalevski\Documents\Visual Studio 2010\Projects\WFshadingBin\WFshadingBin\obj\x86\Release\WFshadingBin.Form1.resources
+C:\Users\Kovalevski\Documents\Visual Studio 2010\Projects\WFshadingBin\WFshadingBin\obj\x86\Release\WFshadingBin.Properties.Resources.resources
+C:\Users\Kovalevski\Documents\Visual Studio 2010\Projects\WFshadingBin\WFshadingBin\obj\x86\Release\WFshadingBin.csproj.GenerateResource.Cache
+C:\Users\Kovalevski\Documents\Visual Studio 2010\Projects\WFshadingBin\WFshadingBin\obj\x86\Release\WFshadingBin.pdb
+C:\Users\Kovalevski\Documents\Visual Studio 2010\Projects\WFshadingBin\WFshadingBin\obj\x86\Release\WFshadingBin.csprojResolveAssemblyReference.cache
+C:\Users\Kovalevski\Documents\Visual Studio 2010\WF Projects\WFshadingBin\WFshadingBin\obj\x86\Release\WFshadingBin.exe
+C:\Users\Kovalevski\Documents\Visual Studio 2010\WF Projects\WFshadingBin\WFshadingBin\obj\x86\Release\WFshadingBin.pdb
+C:\Users\Kovalevski\Documents\Visual Studio 2010\WFProjects\WFshadingBin\WFshadingBin\obj\x86\Release\WFshadingBin.exe
+C:\Users\Kovalevski\Documents\Visual Studio 2010\WFProjects\WFshadingBin\WFshadingBin\obj\x86\Release\WFshadingBin.pdb
+C:\Users\Kovalevski\Documents\Visual Studio 2010\WFProjects\WFshadingBin\WFshadingBin\bin\Release\WFshadingBin.exe
+C:\Users\Kovalevski\Documents\Visual Studio 2010\WFProjects\WFshadingBin\WFshadingBin\bin\Release\WFshadingBin.pdb
+C:\Users\Kovalevski\Documents\Visual Studio 2010\WFProjects\WFshadingBin\WFshadingBin\obj\x86\Release\WFshadingBin.csprojResolveAssemblyReference.cache
+C:\Users\Kovalevski\Documents\Visual Studio 2010\WFProjects\WFshadingBin\WFshadingBin\obj\x86\Release\WFshadingBin.Form1.resources
+C:\Users\Kovalevski\Documents\Visual Studio 2010\WFProjects\WFshadingBin\WFshadingBin\obj\x86\Release\WFshadingBin.Properties.Resources.resources
+C:\Users\Kovalevski\Documents\Visual Studio 2010\WFProjects\WFshadingBin\WFshadingBin\obj\x86\Release\WFshadingBin.csproj.GenerateResource.Cache
+C:\Users\Kovalevski\Documents\Visual Studio 2010\GitHub\WFshadingBin\WFshadingBin\obj\x86\Release\WFshadingBin.exe
+C:\Users\Kovalevski\Documents\Visual Studio 2010\GitHub\WFshadingBin\WFshadingBin\obj\x86\Release\WFshadingBin.pdb
+C:\Users\Kovalevski\Documents\Visual Studio 2010\GitHub\WFshadingBin\WFshadingBin\bin\Release\WFshadingBin.exe
+C:\Users\Kovalevski\Documents\Visual Studio 2010\GitHub\WFshadingBin\WFshadingBin\bin\Release\WFshadingBin.pdb
+C:\Users\Kovalevski\Documents\Visual Studio 2010\GitHub\WFshadingBin\WFshadingBin\obj\x86\Release\WFshadingBin.csprojResolveAssemblyReference.cache
+C:\Users\Kovalevski\Documents\Visual Studio 2010\GitHub\WFshadingBin\WFshadingBin\obj\x86\Release\WFshadingBin.Form1.resources
+C:\Users\Kovalevski\Documents\Visual Studio 2010\GitHub\WFshadingBin\WFshadingBin\obj\x86\Release\WFshadingBin.Properties.Resources.resources
+C:\Users\Kovalevski\Documents\Visual Studio 2010\GitHub\WFshadingBin\WFshadingBin\obj\x86\Release\WFshadingBin.csproj.GenerateResource.Cache
+C:\Users\Kovalevski\Documents\Visual Studio 2010\for_GitHub\WFshadingBin\WFshadingBin\obj\x86\Release\WFshadingBin.exe
+C:\Users\Kovalevski\Documents\Visual Studio 2010\for_GitHub\WFshadingBin\WFshadingBin\obj\x86\Release\WFshadingBin.pdb
+C:\Users\Kovalevski\Documents\Visual Studio 2010\for_GitHub\WFshadingBin\WFshadingBin\bin\Release\WFshadingBin.exe
+C:\Users\Kovalevski\Documents\Visual Studio 2010\for_GitHub\WFshadingBin\WFshadingBin\bin\Release\WFshadingBin.pdb
+C:\Users\Kovalevski\Documents\Visual Studio 2010\for_GitHub\WFshadingBin\WFshadingBin\obj\x86\Release\WFshadingBin.csprojResolveAssemblyReference.cache
+C:\Users\Kovalevski\Documents\Visual Studio 2010\for_GitHub\WFshadingBin\WFshadingBin\obj\x86\Release\WFshadingBin.Form1.resources
+C:\Users\Kovalevski\Documents\Visual Studio 2010\for_GitHub\WFshadingBin\WFshadingBin\obj\x86\Release\WFshadingBin.Properties.Resources.resources
+C:\Users\Kovalevski\Documents\Visual Studio 2010\for_GitHub\WFshadingBin\WFshadingBin\obj\x86\Release\WFshadingBin.csproj.GenerateResource.Cache
+C:\VC_Projects\for_GitHub\WFshadingBin\WFshadingBin\obj\x86\Release\WFshadingBin.exe
+C:\VC_Projects\for_GitHub\WFshadingBin\WFshadingBin\obj\x86\Release\WFshadingBin.pdb
+C:\VC_Projects\for_GitHub\WFshadingBin\WFshadingBin\bin\Release\WFshadingBin.exe
+C:\VC_Projects\for_GitHub\WFshadingBin\WFshadingBin\bin\Release\WFshadingBin.pdb
+C:\VC_Projects\for_GitHub\WFshadingBin\WFshadingBin\obj\x86\Release\WFshadingBin.csprojResolveAssemblyReference.cache
+C:\VC_Projects\for_GitHub\WFshadingBin\WFshadingBin\obj\x86\Release\WFshadingBin.Form1.resources
+C:\VC_Projects\for_GitHub\WFshadingBin\WFshadingBin\obj\x86\Release\WFshadingBin.Properties.Resources.resources
+C:\VC_Projects\for_GitHub\WFshadingBin\WFshadingBin\obj\x86\Release\WFshadingBin.csproj.GenerateResource.Cache

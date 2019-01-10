@@ -1,0 +1,33 @@
+C:\Users\Kovalevski\AppData\Local\Temporary Projects\WFluminance\bin\Release\WFluminance.exe
+C:\Users\Kovalevski\AppData\Local\Temporary Projects\WFluminance\bin\Release\WFluminance.pdb
+C:\Users\Kovalevski\AppData\Local\Temporary Projects\WFluminance\obj\x86\Release\WFluminance.Form1.resources
+C:\Users\Kovalevski\AppData\Local\Temporary Projects\WFluminance\obj\x86\Release\WFluminance.Properties.Resources.resources
+C:\Users\Kovalevski\AppData\Local\Temporary Projects\WFluminance\obj\x86\Release\WFluminance.csproj.GenerateResource.Cache
+C:\Users\Kovalevski\AppData\Local\Temporary Projects\WFluminance\obj\x86\Release\WFluminance.exe
+C:\Users\Kovalevski\AppData\Local\Temporary Projects\WFluminance\obj\x86\Release\WFluminance.pdb
+C:\Users\Kovalevski\documents\visual studio 2010\Projects\WFluminance\WFluminance\obj\x86\Release\WFluminance.exe
+C:\Users\Kovalevski\documents\visual studio 2010\Projects\WFluminance\WFluminance\obj\x86\Release\WFluminance.pdb
+C:\Users\Kovalevski\Documents\Visual Studio 2010\Projects\WFluminance\WFluminance\bin\Release\WFluminance.exe
+C:\Users\Kovalevski\Documents\Visual Studio 2010\Projects\WFluminance\WFluminance\bin\Release\WFluminance.pdb
+C:\Users\Kovalevski\Documents\Visual Studio 2010\Projects\WFluminance\WFluminance\obj\x86\Release\WFluminance.Form1.resources
+C:\Users\Kovalevski\Documents\Visual Studio 2010\Projects\WFluminance\WFluminance\obj\x86\Release\WFluminance.Properties.Resources.resources
+C:\Users\Kovalevski\Documents\Visual Studio 2010\Projects\WFluminance\WFluminance\obj\x86\Release\WFluminance.csproj.GenerateResource.Cache
+C:\Users\Kovalevski\Documents\Visual Studio 2010\Projects\WFluminance\WFluminance\obj\x86\Release\WFluminance.csprojResolveAssemblyReference.cache
+C:\Users\Kovalevski\Documents\Visual Studio 2010\WFProjects\WFluminance\WFluminance\obj\x86\Release\WFluminance.exe
+C:\Users\Kovalevski\Documents\Visual Studio 2010\WFProjects\WFluminance\WFluminance\obj\x86\Release\WFluminance.pdb
+C:\Users\Kovalevski\Documents\Visual Studio 2010\WFProjects\WFluminance\WFluminance\bin\Release\WFluminance.exe
+C:\Users\Kovalevski\Documents\Visual Studio 2010\WFProjects\WFluminance\WFluminance\bin\Release\WFluminance.pdb
+C:\Users\Kovalevski\Documents\Visual Studio 2010\WFProjects\WFluminance\WFluminance\obj\x86\Release\WFluminance.csprojResolveAssemblyReference.cache
+C:\Users\Kovalevski\Documents\Visual Studio 2010\WFProjects\WFluminance\WFluminance\obj\x86\Release\WFluminance.Form1.resources
+C:\Users\Kovalevski\Documents\Visual Studio 2010\WFProjects\WFluminance\WFluminance\obj\x86\Release\WFluminance.Properties.Resources.resources
+C:\Users\Kovalevski\Documents\Visual Studio 2010\WFProjects\WFluminance\WFluminance\obj\x86\Release\WFluminance.csproj.GenerateResource.Cache
+C:\Users\Kovalevski\Documents\Visual Studio 2010\for_GitHub\WFluminance\WFluminance\obj\x86\Release\WFluminance.exe
+C:\Users\Kovalevski\Documents\Visual Studio 2010\for_GitHub\WFluminance\WFluminance\obj\x86\Release\WFluminance.pdb
+C:\VC_Projects\for_GitHub\WFluminance\WFluminance\obj\x86\Release\WFluminance.exe
+C:\VC_Projects\for_GitHub\WFluminance\WFluminance\obj\x86\Release\WFluminance.pdb
+C:\VC_Projects\for_GitHub\WFluminance\WFluminance\bin\Release\WFluminance.exe
+C:\VC_Projects\for_GitHub\WFluminance\WFluminance\bin\Release\WFluminance.pdb
+C:\VC_Projects\for_GitHub\WFluminance\WFluminance\obj\x86\Release\WFluminance.csprojResolveAssemblyReference.cache
+C:\VC_Projects\for_GitHub\WFluminance\WFluminance\obj\x86\Release\WFluminance.Form1.resources
+C:\VC_Projects\for_GitHub\WFluminance\WFluminance\obj\x86\Release\WFluminance.Properties.Resources.resources
+C:\VC_Projects\for_GitHub\WFluminance\WFluminance\obj\x86\Release\WFluminance.csproj.GenerateResource.Cache

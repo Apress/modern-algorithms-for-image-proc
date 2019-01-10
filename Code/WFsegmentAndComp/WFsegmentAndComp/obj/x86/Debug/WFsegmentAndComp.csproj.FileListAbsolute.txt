@@ -1,0 +1,31 @@
+C:\Users\Kovalevski\AppData\Local\Temporary Projects\WFsegmentAndComp\bin\Debug\WFsegmentAndComp.exe
+C:\Users\Kovalevski\AppData\Local\Temporary Projects\WFsegmentAndComp\bin\Debug\WFsegmentAndComp.pdb
+C:\Users\Kovalevski\AppData\Local\Temporary Projects\WFsegmentAndComp\obj\x86\Debug\WFsegmentAndComp.Form1.resources
+C:\Users\Kovalevski\AppData\Local\Temporary Projects\WFsegmentAndComp\obj\x86\Debug\WFsegmentAndComp.Properties.Resources.resources
+C:\Users\Kovalevski\AppData\Local\Temporary Projects\WFsegmentAndComp\obj\x86\Debug\WFsegmentAndComp.csproj.GenerateResource.Cache
+C:\Users\Kovalevski\AppData\Local\Temporary Projects\WFsegmentAndComp\obj\x86\Debug\WFsegmentAndComp.exe
+C:\Users\Kovalevski\AppData\Local\Temporary Projects\WFsegmentAndComp\obj\x86\Debug\WFsegmentAndComp.pdb
+C:\Users\Kovalevski\Documents\Visual Studio 2010\Projects\WFsegmentAndComp\WFsegmentAndComp\bin\Debug\WFsegmentAndComp.exe
+C:\Users\Kovalevski\Documents\Visual Studio 2010\Projects\WFsegmentAndComp\WFsegmentAndComp\bin\Debug\WFsegmentAndComp.pdb
+C:\Users\Kovalevski\Documents\Visual Studio 2010\Projects\WFsegmentAndComp\WFsegmentAndComp\obj\x86\Debug\WFsegmentAndComp.Form1.resources
+C:\Users\Kovalevski\Documents\Visual Studio 2010\Projects\WFsegmentAndComp\WFsegmentAndComp\obj\x86\Debug\WFsegmentAndComp.Properties.Resources.resources
+C:\Users\Kovalevski\Documents\Visual Studio 2010\Projects\WFsegmentAndComp\WFsegmentAndComp\obj\x86\Debug\WFsegmentAndComp.csproj.GenerateResource.Cache
+C:\Users\Kovalevski\Documents\Visual Studio 2010\Projects\WFsegmentAndComp\WFsegmentAndComp\obj\x86\Debug\WFsegmentAndComp.exe
+C:\Users\Kovalevski\Documents\Visual Studio 2010\Projects\WFsegmentAndComp\WFsegmentAndComp\obj\x86\Debug\WFsegmentAndComp.pdb
+C:\Users\Kovalevski\Documents\Visual Studio 2010\Projects\WFsegmentAndComp\WFsegmentAndComp\obj\x86\Debug\WFsegmentAndComp.csprojResolveAssemblyReference.cache
+C:\Users\Kovalevski\Documents\Visual Studio 2010\GitHub\WFsegmentAndComp\WFsegmentAndComp\bin\Debug\WFsegmentAndComp.exe
+C:\Users\Kovalevski\Documents\Visual Studio 2010\GitHub\WFsegmentAndComp\WFsegmentAndComp\bin\Debug\WFsegmentAndComp.pdb
+C:\Users\Kovalevski\Documents\Visual Studio 2010\GitHub\WFsegmentAndComp\WFsegmentAndComp\obj\x86\Debug\WFsegmentAndComp.csprojResolveAssemblyReference.cache
+C:\Users\Kovalevski\Documents\Visual Studio 2010\GitHub\WFsegmentAndComp\WFsegmentAndComp\obj\x86\Debug\WFsegmentAndComp.Form1.resources
+C:\Users\Kovalevski\Documents\Visual Studio 2010\GitHub\WFsegmentAndComp\WFsegmentAndComp\obj\x86\Debug\WFsegmentAndComp.Properties.Resources.resources
+C:\Users\Kovalevski\Documents\Visual Studio 2010\GitHub\WFsegmentAndComp\WFsegmentAndComp\obj\x86\Debug\WFsegmentAndComp.csproj.GenerateResource.Cache
+C:\Users\Kovalevski\Documents\Visual Studio 2010\GitHub\WFsegmentAndComp\WFsegmentAndComp\obj\x86\Debug\WFsegmentAndComp.exe
+C:\Users\Kovalevski\Documents\Visual Studio 2010\GitHub\WFsegmentAndComp\WFsegmentAndComp\obj\x86\Debug\WFsegmentAndComp.pdb
+C:\Users\Kovalevski\Documents\Visual Studio 2010\for_GitHub\WFsegmentAndComp\WFsegmentAndComp\bin\Debug\WFsegmentAndComp.exe
+C:\Users\Kovalevski\Documents\Visual Studio 2010\for_GitHub\WFsegmentAndComp\WFsegmentAndComp\bin\Debug\WFsegmentAndComp.pdb
+C:\Users\Kovalevski\Documents\Visual Studio 2010\for_GitHub\WFsegmentAndComp\WFsegmentAndComp\obj\x86\Debug\WFsegmentAndComp.csprojResolveAssemblyReference.cache
+C:\Users\Kovalevski\Documents\Visual Studio 2010\for_GitHub\WFsegmentAndComp\WFsegmentAndComp\obj\x86\Debug\WFsegmentAndComp.Form1.resources
+C:\Users\Kovalevski\Documents\Visual Studio 2010\for_GitHub\WFsegmentAndComp\WFsegmentAndComp\obj\x86\Debug\WFsegmentAndComp.Properties.Resources.resources
+C:\Users\Kovalevski\Documents\Visual Studio 2010\for_GitHub\WFsegmentAndComp\WFsegmentAndComp\obj\x86\Debug\WFsegmentAndComp.csproj.GenerateResource.Cache
+C:\Users\Kovalevski\Documents\Visual Studio 2010\for_GitHub\WFsegmentAndComp\WFsegmentAndComp\obj\x86\Debug\WFsegmentAndComp.exe
+C:\Users\Kovalevski\Documents\Visual Studio 2010\for_GitHub\WFsegmentAndComp\WFsegmentAndComp\obj\x86\Debug\WFsegmentAndComp.pdb

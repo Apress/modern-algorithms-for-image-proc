@@ -1,0 +1,47 @@
+C:\Users\Kovalevski\AppData\Local\Temporary Projects\WFrestoreLin\obj\x86\Release\WFrestoreLin.Form1.resources
+C:\Users\Kovalevski\AppData\Local\Temporary Projects\WFrestoreLin\obj\x86\Release\WFrestoreLin.Properties.Resources.resources
+C:\Users\Kovalevski\AppData\Local\Temporary Projects\WFrestoreLin\obj\x86\Release\WFrestoreLin.csproj.GenerateResource.Cache
+C:\Users\Kovalevski\AppData\Local\Temporary Projects\WFrestoreLin\bin\Release\WFrestoreLin.exe
+C:\Users\Kovalevski\AppData\Local\Temporary Projects\WFrestoreLin\bin\Release\WFrestoreLin.pdb
+C:\Users\Kovalevski\AppData\Local\Temporary Projects\WFrestoreLin\obj\x86\Release\WFrestoreLin.exe
+C:\Users\Kovalevski\AppData\Local\Temporary Projects\WFrestoreLin\obj\x86\Release\WFrestoreLin.pdb
+C:\Users\Kovalevski\documents\visual studio 2010\Projects\WFrestoreLin\WFrestoreLin\obj\x86\Release\WFrestoreLin.exe
+C:\Users\Kovalevski\documents\visual studio 2010\Projects\WFrestoreLin\WFrestoreLin\obj\x86\Release\WFrestoreLin.pdb
+C:\Users\Kovalevski\Documents\Visual Studio 2010\Projects\WFrestoreLin\WFrestoreLin\obj\x86\Release\WFrestoreLin.Form1.resources
+C:\Users\Kovalevski\Documents\Visual Studio 2010\Projects\WFrestoreLin\WFrestoreLin\obj\x86\Release\WFrestoreLin.Properties.Resources.resources
+C:\Users\Kovalevski\Documents\Visual Studio 2010\Projects\WFrestoreLin\WFrestoreLin\obj\x86\Release\WFrestoreLin.csproj.GenerateResource.Cache
+C:\Users\Kovalevski\Documents\Visual Studio 2010\Projects\WFrestoreLin\WFrestoreLin\bin\Release\WFrestoreLin.exe
+C:\Users\Kovalevski\Documents\Visual Studio 2010\Projects\WFrestoreLin\WFrestoreLin\bin\Release\WFrestoreLin.pdb
+C:\Users\Kovalevski\Documents\Visual Studio 2010\Projects\WFrestoreLin\WFrestoreLin\obj\x86\Release\WFrestoreLin.csprojResolveAssemblyReference.cache
+C:\Users\Kovalevski\Documents\Visual Studio 2010\WFProjects\WFrestoreLin\WFrestoreLin\obj\x86\Release\WFrestoreLin.exe
+C:\Users\Kovalevski\Documents\Visual Studio 2010\WFProjects\WFrestoreLin\WFrestoreLin\obj\x86\Release\WFrestoreLin.pdb
+C:\Users\Kovalevski\Documents\Visual Studio 2010\WFProjects\WFrestoreLin\WFrestoreLin\bin\Release\WFrestoreLin.exe
+C:\Users\Kovalevski\Documents\Visual Studio 2010\WFProjects\WFrestoreLin\WFrestoreLin\bin\Release\WFrestoreLin.pdb
+C:\Users\Kovalevski\Documents\Visual Studio 2010\WFProjects\WFrestoreLin\WFrestoreLin\obj\x86\Release\WFrestoreLin.csprojResolveAssemblyReference.cache
+C:\Users\Kovalevski\Documents\Visual Studio 2010\WFProjects\WFrestoreLin\WFrestoreLin\obj\x86\Release\WFrestoreLin.Form1.resources
+C:\Users\Kovalevski\Documents\Visual Studio 2010\WFProjects\WFrestoreLin\WFrestoreLin\obj\x86\Release\WFrestoreLin.Properties.Resources.resources
+C:\Users\Kovalevski\Documents\Visual Studio 2010\WFProjects\WFrestoreLin\WFrestoreLin\obj\x86\Release\WFrestoreLin.csproj.GenerateResource.Cache
+C:\Users\Kovalevski\Documents\Visual Studio 2010\GitHub\WFrestoreLin\WFrestoreLin\obj\x86\Release\WFrestoreLin.exe
+C:\Users\Kovalevski\Documents\Visual Studio 2010\GitHub\WFrestoreLin\WFrestoreLin\obj\x86\Release\WFrestoreLin.pdb
+C:\Users\Kovalevski\Documents\Visual Studio 2010\GitHub\WFrestoreLin\WFrestoreLin\bin\Release\WFrestoreLin.exe
+C:\Users\Kovalevski\Documents\Visual Studio 2010\GitHub\WFrestoreLin\WFrestoreLin\bin\Release\WFrestoreLin.pdb
+C:\Users\Kovalevski\Documents\Visual Studio 2010\GitHub\WFrestoreLin\WFrestoreLin\obj\x86\Release\WFrestoreLin.csprojResolveAssemblyReference.cache
+C:\Users\Kovalevski\Documents\Visual Studio 2010\GitHub\WFrestoreLin\WFrestoreLin\obj\x86\Release\WFrestoreLin.Form1.resources
+C:\Users\Kovalevski\Documents\Visual Studio 2010\GitHub\WFrestoreLin\WFrestoreLin\obj\x86\Release\WFrestoreLin.Properties.Resources.resources
+C:\Users\Kovalevski\Documents\Visual Studio 2010\GitHub\WFrestoreLin\WFrestoreLin\obj\x86\Release\WFrestoreLin.csproj.GenerateResource.Cache
+C:\Users\Kovalevski\Documents\Visual Studio 2010\for_GitHub\WFrestoreLin\WFrestoreLin\obj\x86\Release\WFrestoreLin.exe
+C:\Users\Kovalevski\Documents\Visual Studio 2010\for_GitHub\WFrestoreLin\WFrestoreLin\obj\x86\Release\WFrestoreLin.pdb
+C:\Users\Kovalevski\Documents\Visual Studio 2010\for_GitHub\WFrestoreLin\WFrestoreLin\bin\Release\WFrestoreLin.exe
+C:\Users\Kovalevski\Documents\Visual Studio 2010\for_GitHub\WFrestoreLin\WFrestoreLin\bin\Release\WFrestoreLin.pdb
+C:\Users\Kovalevski\Documents\Visual Studio 2010\for_GitHub\WFrestoreLin\WFrestoreLin\obj\x86\Release\WFrestoreLin.csprojResolveAssemblyReference.cache
+C:\Users\Kovalevski\Documents\Visual Studio 2010\for_GitHub\WFrestoreLin\WFrestoreLin\obj\x86\Release\WFrestoreLin.Form1.resources
+C:\Users\Kovalevski\Documents\Visual Studio 2010\for_GitHub\WFrestoreLin\WFrestoreLin\obj\x86\Release\WFrestoreLin.Properties.Resources.resources
+C:\Users\Kovalevski\Documents\Visual Studio 2010\for_GitHub\WFrestoreLin\WFrestoreLin\obj\x86\Release\WFrestoreLin.csproj.GenerateResource.Cache
+C:\VC_Projects\for_GitHub\WFrestoreLin\WFrestoreLin\obj\x86\Release\WFrestoreLin.exe
+C:\VC_Projects\for_GitHub\WFrestoreLin\WFrestoreLin\obj\x86\Release\WFrestoreLin.pdb
+C:\VC_Projects\for_GitHub\WFrestoreLin\WFrestoreLin\bin\Release\WFrestoreLin.exe
+C:\VC_Projects\for_GitHub\WFrestoreLin\WFrestoreLin\bin\Release\WFrestoreLin.pdb
+C:\VC_Projects\for_GitHub\WFrestoreLin\WFrestoreLin\obj\x86\Release\WFrestoreLin.csprojResolveAssemblyReference.cache
+C:\VC_Projects\for_GitHub\WFrestoreLin\WFrestoreLin\obj\x86\Release\WFrestoreLin.Form1.resources
+C:\VC_Projects\for_GitHub\WFrestoreLin\WFrestoreLin\obj\x86\Release\WFrestoreLin.Properties.Resources.resources
+C:\VC_Projects\for_GitHub\WFrestoreLin\WFrestoreLin\obj\x86\Release\WFrestoreLin.csproj.GenerateResource.Cache

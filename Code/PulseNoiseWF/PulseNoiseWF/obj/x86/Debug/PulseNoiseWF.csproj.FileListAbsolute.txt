@@ -1,0 +1,23 @@
+C:\Users\Kovalevski\AppData\Local\Temporary Projects\PulseNoiseWF\bin\Debug\PulseNoiseWF.exe
+C:\Users\Kovalevski\AppData\Local\Temporary Projects\PulseNoiseWF\bin\Debug\PulseNoiseWF.pdb
+C:\Users\Kovalevski\AppData\Local\Temporary Projects\PulseNoiseWF\obj\x86\Debug\PulseNoiseWF.Form1.resources
+C:\Users\Kovalevski\AppData\Local\Temporary Projects\PulseNoiseWF\obj\x86\Debug\PulseNoiseWF.Properties.Resources.resources
+C:\Users\Kovalevski\AppData\Local\Temporary Projects\PulseNoiseWF\obj\x86\Debug\PulseNoiseWF.csproj.GenerateResource.Cache
+C:\Users\Kovalevski\AppData\Local\Temporary Projects\PulseNoiseWF\obj\x86\Debug\PulseNoiseWF.exe
+C:\Users\Kovalevski\AppData\Local\Temporary Projects\PulseNoiseWF\obj\x86\Debug\PulseNoiseWF.pdb
+C:\Users\Kovalevski\Documents\Visual Studio 2010\Projects\PulseNoiseWF\PulseNoiseWF\obj\x86\Debug\PulseNoiseWF.exe
+C:\Users\Kovalevski\Documents\Visual Studio 2010\Projects\PulseNoiseWF\PulseNoiseWF\obj\x86\Debug\PulseNoiseWF.pdb
+C:\Users\Kovalevski\Documents\Visual Studio 2010\Projects\PulseNoiseWF\PulseNoiseWF\bin\Debug\PulseNoiseWF.exe
+C:\Users\Kovalevski\Documents\Visual Studio 2010\Projects\PulseNoiseWF\PulseNoiseWF\bin\Debug\PulseNoiseWF.pdb
+C:\Users\Kovalevski\Documents\Visual Studio 2010\Projects\PulseNoiseWF\PulseNoiseWF\obj\x86\Debug\PulseNoiseWF.Form1.resources
+C:\Users\Kovalevski\Documents\Visual Studio 2010\Projects\PulseNoiseWF\PulseNoiseWF\obj\x86\Debug\PulseNoiseWF.Properties.Resources.resources
+C:\Users\Kovalevski\Documents\Visual Studio 2010\Projects\PulseNoiseWF\PulseNoiseWF\obj\x86\Debug\PulseNoiseWF.csproj.GenerateResource.Cache
+C:\Users\Kovalevski\Documents\Visual Studio 2010\WFProjects\PulseNoiseWF\PulseNoiseWF\bin\Debug\PulseNoiseWF.exe
+C:\Users\Kovalevski\Documents\Visual Studio 2010\WFProjects\PulseNoiseWF\PulseNoiseWF\bin\Debug\PulseNoiseWF.pdb
+C:\Users\Kovalevski\Documents\Visual Studio 2010\WFProjects\PulseNoiseWF\PulseNoiseWF\obj\x86\Debug\PulseNoiseWF.Form1.resources
+C:\Users\Kovalevski\Documents\Visual Studio 2010\WFProjects\PulseNoiseWF\PulseNoiseWF\obj\x86\Debug\PulseNoiseWF.Properties.Resources.resources
+C:\Users\Kovalevski\Documents\Visual Studio 2010\WFProjects\PulseNoiseWF\PulseNoiseWF\obj\x86\Debug\PulseNoiseWF.csproj.GenerateResource.Cache
+C:\Users\Kovalevski\Documents\Visual Studio 2010\WFProjects\PulseNoiseWF\PulseNoiseWF\obj\x86\Debug\PulseNoiseWF.exe
+C:\Users\Kovalevski\Documents\Visual Studio 2010\WFProjects\PulseNoiseWF\PulseNoiseWF\obj\x86\Debug\PulseNoiseWF.pdb
+C:\Users\Kovalevski\Documents\Visual Studio 2010\GitHub\PulseNoiseWF\PulseNoiseWF\obj\x86\Debug\PulseNoiseWF.exe
+C:\Users\Kovalevski\Documents\Visual Studio 2010\GitHub\PulseNoiseWF\PulseNoiseWF\obj\x86\Debug\PulseNoiseWF.pdb

@@ -1,0 +1,44 @@
+C:\Users\Kovalevski\AppData\Local\Temporary Projects\WFshadBinImpulse\obj\x86\Release\WFshadBinImpulse.Properties.Resources.resources
+C:\Users\Kovalevski\AppData\Local\Temporary Projects\WFshadBinImpulse\obj\x86\Release\WFshadBinImpulse.csproj.GenerateResource.Cache
+C:\Users\Kovalevski\Documents\Visual Studio 2010\Projects\WFshadBinImpulse\WFshadBinImpulse\obj\x86\Release\WFshadBinImpulse.Form1.resources
+C:\Users\Kovalevski\Documents\Visual Studio 2010\Projects\WFshadBinImpulse\WFshadBinImpulse\obj\x86\Release\WFshadBinImpulse.Properties.Resources.resources
+C:\Users\Kovalevski\Documents\Visual Studio 2010\Projects\WFshadBinImpulse\WFshadBinImpulse\obj\x86\Release\WFshadBinImpulse.csproj.GenerateResource.Cache
+C:\Users\Kovalevski\Documents\Visual Studio 2010\Projects\WFshadBinImpulse\WFshadBinImpulse\bin\Release\WFshadBinImpulse.exe
+C:\Users\Kovalevski\Documents\Visual Studio 2010\Projects\WFshadBinImpulse\WFshadBinImpulse\bin\Release\WFshadBinImpulse.pdb
+C:\Users\Kovalevski\Documents\Visual Studio 2010\Projects\WFshadBinImpulse\WFshadBinImpulse\obj\x86\Release\WFshadBinImpulse.exe
+C:\Users\Kovalevski\Documents\Visual Studio 2010\Projects\WFshadBinImpulse\WFshadBinImpulse\obj\x86\Release\WFshadBinImpulse.pdb
+C:\Users\Kovalevski\Documents\Visual Studio 2010\Projects\WFshadBinImpulse\WFshadBinImpulse\obj\x86\Release\WFshadBinImpulse.csprojResolveAssemblyReference.cache
+C:\Users\Kovalevski\Documents\Visual Studio 2010\WF Projects\WFshadBinImpulse\WFshadBinImpulse\obj\x86\Release\WFshadBinImpulse.exe
+C:\Users\Kovalevski\Documents\Visual Studio 2010\WF Projects\WFshadBinImpulse\WFshadBinImpulse\obj\x86\Release\WFshadBinImpulse.pdb
+C:\Users\Kovalevski\Documents\Visual Studio 2010\WFProjects\WFshadBinImpulse\WFshadBinImpulse\obj\x86\Release\WFshadBinImpulse.exe
+C:\Users\Kovalevski\Documents\Visual Studio 2010\WFProjects\WFshadBinImpulse\WFshadBinImpulse\obj\x86\Release\WFshadBinImpulse.pdb
+C:\Users\Kovalevski\Documents\Visual Studio 2010\WFProjects\WFshadBinImpulse\WFshadBinImpulse\obj\x86\Release\WFshadBinImpulse.csprojResolveAssemblyReference.cache
+C:\Users\Kovalevski\Documents\Visual Studio 2010\WFProjects\WFshadBinImpulse\WFshadBinImpulse\obj\x86\Release\WFshadBinImpulse.Form1.resources
+C:\Users\Kovalevski\Documents\Visual Studio 2010\WFProjects\WFshadBinImpulse\WFshadBinImpulse\obj\x86\Release\WFshadBinImpulse.Properties.Resources.resources
+C:\Users\Kovalevski\Documents\Visual Studio 2010\WFProjects\WFshadBinImpulse\WFshadBinImpulse\obj\x86\Release\WFshadBinImpulse.csproj.GenerateResource.Cache
+C:\Users\Kovalevski\Documents\Visual Studio 2010\WFProjects\WFshadBinImpulse\WFshadBinImpulse\bin\Release\WFshadBinImpulse.exe
+C:\Users\Kovalevski\Documents\Visual Studio 2010\WFProjects\WFshadBinImpulse\WFshadBinImpulse\bin\Release\WFshadBinImpulse.pdb
+C:\Users\Kovalevski\Documents\Visual Studio 2010\GitHub\WFshadBinImpulse\WFshadBinImpulse\obj\x86\Release\WFshadBinImpulse.exe
+C:\Users\Kovalevski\Documents\Visual Studio 2010\GitHub\WFshadBinImpulse\WFshadBinImpulse\obj\x86\Release\WFshadBinImpulse.pdb
+C:\Users\Kovalevski\Documents\Visual Studio 2010\GitHub\WFshadBinImpulse\WFshadBinImpulse\bin\Release\WFshadBinImpulse.exe
+C:\Users\Kovalevski\Documents\Visual Studio 2010\GitHub\WFshadBinImpulse\WFshadBinImpulse\bin\Release\WFshadBinImpulse.pdb
+C:\Users\Kovalevski\Documents\Visual Studio 2010\GitHub\WFshadBinImpulse\WFshadBinImpulse\obj\x86\Release\WFshadBinImpulse.csprojResolveAssemblyReference.cache
+C:\Users\Kovalevski\Documents\Visual Studio 2010\GitHub\WFshadBinImpulse\WFshadBinImpulse\obj\x86\Release\WFshadBinImpulse.Form1.resources
+C:\Users\Kovalevski\Documents\Visual Studio 2010\GitHub\WFshadBinImpulse\WFshadBinImpulse\obj\x86\Release\WFshadBinImpulse.Properties.Resources.resources
+C:\Users\Kovalevski\Documents\Visual Studio 2010\GitHub\WFshadBinImpulse\WFshadBinImpulse\obj\x86\Release\WFshadBinImpulse.csproj.GenerateResource.Cache
+C:\Users\Kovalevski\Documents\Visual Studio 2010\for_GitHub\WFshadBinImpulse\WFshadBinImpulse\obj\x86\Release\WFshadBinImpulse.exe
+C:\Users\Kovalevski\Documents\Visual Studio 2010\for_GitHub\WFshadBinImpulse\WFshadBinImpulse\obj\x86\Release\WFshadBinImpulse.pdb
+C:\Users\Kovalevski\Documents\Visual Studio 2010\for_GitHub\WFshadBinImpulse\WFshadBinImpulse\bin\Release\WFshadBinImpulse.exe
+C:\Users\Kovalevski\Documents\Visual Studio 2010\for_GitHub\WFshadBinImpulse\WFshadBinImpulse\bin\Release\WFshadBinImpulse.pdb
+C:\Users\Kovalevski\Documents\Visual Studio 2010\for_GitHub\WFshadBinImpulse\WFshadBinImpulse\obj\x86\Release\WFshadBinImpulse.csprojResolveAssemblyReference.cache
+C:\Users\Kovalevski\Documents\Visual Studio 2010\for_GitHub\WFshadBinImpulse\WFshadBinImpulse\obj\x86\Release\WFshadBinImpulse.Form1.resources
+C:\Users\Kovalevski\Documents\Visual Studio 2010\for_GitHub\WFshadBinImpulse\WFshadBinImpulse\obj\x86\Release\WFshadBinImpulse.Properties.Resources.resources
+C:\Users\Kovalevski\Documents\Visual Studio 2010\for_GitHub\WFshadBinImpulse\WFshadBinImpulse\obj\x86\Release\WFshadBinImpulse.csproj.GenerateResource.Cache
+C:\VC_Projects\for_GitHub\WFshadBinImpulse\WFshadBinImpulse\obj\x86\Release\WFshadBinImpulse.exe
+C:\VC_Projects\for_GitHub\WFshadBinImpulse\WFshadBinImpulse\obj\x86\Release\WFshadBinImpulse.pdb
+C:\VC_Projects\for_GitHub\WFshadBinImpulse\WFshadBinImpulse\bin\Release\WFshadBinImpulse.exe
+C:\VC_Projects\for_GitHub\WFshadBinImpulse\WFshadBinImpulse\bin\Release\WFshadBinImpulse.pdb
+C:\VC_Projects\for_GitHub\WFshadBinImpulse\WFshadBinImpulse\obj\x86\Release\WFshadBinImpulse.csprojResolveAssemblyReference.cache
+C:\VC_Projects\for_GitHub\WFshadBinImpulse\WFshadBinImpulse\obj\x86\Release\WFshadBinImpulse.Form1.resources
+C:\VC_Projects\for_GitHub\WFshadBinImpulse\WFshadBinImpulse\obj\x86\Release\WFshadBinImpulse.Properties.Resources.resources
+C:\VC_Projects\for_GitHub\WFshadBinImpulse\WFshadBinImpulse\obj\x86\Release\WFshadBinImpulse.csproj.GenerateResource.Cache

@@ -1,0 +1,50 @@
+C:\Users\Kovalevski\Documents\Visual Studio 2010\Projects\WFedgeDetect1\WFedgeDetect1\obj\x86\Release\WFedgeDetect1.csprojResolveAssemblyReference.cache
+C:\Users\Kovalevski\Documents\Visual Studio 2010\Projects\WFedgeDetect1\WFedgeDetect1\obj\x86\Release\WFedgeDetect.Form1.resources
+C:\Users\Kovalevski\Documents\Visual Studio 2010\Projects\WFedgeDetect1\WFedgeDetect1\obj\x86\Release\WFedgeDetect.Properties.Resources.resources
+C:\Users\Kovalevski\Documents\Visual Studio 2010\Projects\WFedgeDetect1\WFedgeDetect1\obj\x86\Release\WFedgeDetect1.csproj.GenerateResource.Cache
+C:\Users\Kovalevski\Documents\Visual Studio 2010\Projects\WFedgeDetect1\WFedgeDetect1\bin\Release\WFedgeDetect1.exe
+C:\Users\Kovalevski\Documents\Visual Studio 2010\Projects\WFedgeDetect1\WFedgeDetect1\bin\Release\WFedgeDetect1.pdb
+C:\Users\Kovalevski\Documents\Visual Studio 2010\Projects\WFedgeDetect1\WFedgeDetect1\obj\x86\Release\WFedgeDetect1.exe
+C:\Users\Kovalevski\Documents\Visual Studio 2010\Projects\WFedgeDetect1\WFedgeDetect1\obj\x86\Release\WFedgeDetect1.pdb
+C:\Dokumente und Einstellungen\Du\Eigene Dateien\Visual Studio 2010\WFprojects\WFedgeDetect1\WFedgeDetect1\obj\x86\Release\WFedgeDetect1.exe
+C:\Dokumente und Einstellungen\Du\Eigene Dateien\Visual Studio 2010\WFprojects\WFedgeDetect1\WFedgeDetect1\obj\x86\Release\WFedgeDetect1.pdb
+C:\Users\Kovalevski\Documents\Visual Studio 2010\WF Projects\WFedgeDetect1\WFedgeDetect1\obj\x86\Release\WFedgeDetect1.exe
+C:\Users\Kovalevski\Documents\Visual Studio 2010\WF Projects\WFedgeDetect1\WFedgeDetect1\obj\x86\Release\WFedgeDetect1.pdb
+C:\Users\Kovalevski\Documents\Visual Studio 2010\WF Projects\WFedgeDetect1\WFedgeDetect1\bin\Release\WFedgeDetect1.exe
+C:\Users\Kovalevski\Documents\Visual Studio 2010\WF Projects\WFedgeDetect1\WFedgeDetect1\bin\Release\WFedgeDetect1.pdb
+C:\Users\Kovalevski\Documents\Visual Studio 2010\WF Projects\WFedgeDetect1\WFedgeDetect1\obj\x86\Release\WFedgeDetect1.csprojResolveAssemblyReference.cache
+C:\Users\Kovalevski\Documents\Visual Studio 2010\WF Projects\WFedgeDetect1\WFedgeDetect1\obj\x86\Release\WFedgeDetect.Form1.resources
+C:\Users\Kovalevski\Documents\Visual Studio 2010\WF Projects\WFedgeDetect1\WFedgeDetect1\obj\x86\Release\WFedgeDetect.Properties.Resources.resources
+C:\Users\Kovalevski\Documents\Visual Studio 2010\WF Projects\WFedgeDetect1\WFedgeDetect1\obj\x86\Release\WFedgeDetect1.csproj.GenerateResource.Cache
+C:\Users\Kovalevski\Documents\Visual Studio 2010\WFProjects\WFedgeDetect1\WFedgeDetect1\obj\x86\Release\WFedgeDetect1.exe
+C:\Users\Kovalevski\Documents\Visual Studio 2010\WFProjects\WFedgeDetect1\WFedgeDetect1\obj\x86\Release\WFedgeDetect1.pdb
+C:\Users\Kovalevski\Documents\Visual Studio 2010\WFProjects\WFedgeDetect1\WFedgeDetect1\bin\Release\WFedgeDetect1.exe
+C:\Users\Kovalevski\Documents\Visual Studio 2010\WFProjects\WFedgeDetect1\WFedgeDetect1\bin\Release\WFedgeDetect1.pdb
+C:\Users\Kovalevski\Documents\Visual Studio 2010\WFProjects\WFedgeDetect1\WFedgeDetect1\obj\x86\Release\WFedgeDetect1.csprojResolveAssemblyReference.cache
+C:\Users\Kovalevski\Documents\Visual Studio 2010\WFProjects\WFedgeDetect1\WFedgeDetect1\obj\x86\Release\WFedgeDetect.Form1.resources
+C:\Users\Kovalevski\Documents\Visual Studio 2010\WFProjects\WFedgeDetect1\WFedgeDetect1\obj\x86\Release\WFedgeDetect.Properties.Resources.resources
+C:\Users\Kovalevski\Documents\Visual Studio 2010\WFProjects\WFedgeDetect1\WFedgeDetect1\obj\x86\Release\WFedgeDetect1.csproj.GenerateResource.Cache
+C:\Users\Kovalevski\Documents\Visual Studio 2010\GitHub\WFedgeDetect1\WFedgeDetect1\obj\x86\Release\WFedgeDetect1.exe
+C:\Users\Kovalevski\Documents\Visual Studio 2010\GitHub\WFedgeDetect1\WFedgeDetect1\obj\x86\Release\WFedgeDetect1.pdb
+C:\Users\Kovalevski\Documents\Visual Studio 2010\GitHub\WFedgeDetect1\WFedgeDetect1\bin\Release\WFedgeDetect1.exe
+C:\Users\Kovalevski\Documents\Visual Studio 2010\GitHub\WFedgeDetect1\WFedgeDetect1\bin\Release\WFedgeDetect1.pdb
+C:\Users\Kovalevski\Documents\Visual Studio 2010\GitHub\WFedgeDetect1\WFedgeDetect1\obj\x86\Release\WFedgeDetect1.csprojResolveAssemblyReference.cache
+C:\Users\Kovalevski\Documents\Visual Studio 2010\GitHub\WFedgeDetect1\WFedgeDetect1\obj\x86\Release\WFedgeDetect.Form1.resources
+C:\Users\Kovalevski\Documents\Visual Studio 2010\GitHub\WFedgeDetect1\WFedgeDetect1\obj\x86\Release\WFedgeDetect.Properties.Resources.resources
+C:\Users\Kovalevski\Documents\Visual Studio 2010\GitHub\WFedgeDetect1\WFedgeDetect1\obj\x86\Release\WFedgeDetect1.csproj.GenerateResource.Cache
+C:\Users\Kovalevski\Documents\Visual Studio 2010\for_GitHub\WFedgeDetect1\WFedgeDetect1\obj\x86\Release\WFedgeDetect1.exe
+C:\Users\Kovalevski\Documents\Visual Studio 2010\for_GitHub\WFedgeDetect1\WFedgeDetect1\obj\x86\Release\WFedgeDetect1.pdb
+C:\Users\Kovalevski\Documents\Visual Studio 2010\for_GitHub\WFedgeDetect1\WFedgeDetect1\bin\Release\WFedgeDetect1.exe
+C:\Users\Kovalevski\Documents\Visual Studio 2010\for_GitHub\WFedgeDetect1\WFedgeDetect1\bin\Release\WFedgeDetect1.pdb
+C:\Users\Kovalevski\Documents\Visual Studio 2010\for_GitHub\WFedgeDetect1\WFedgeDetect1\obj\x86\Release\WFedgeDetect1.csprojResolveAssemblyReference.cache
+C:\Users\Kovalevski\Documents\Visual Studio 2010\for_GitHub\WFedgeDetect1\WFedgeDetect1\obj\x86\Release\WFedgeDetect.Form1.resources
+C:\Users\Kovalevski\Documents\Visual Studio 2010\for_GitHub\WFedgeDetect1\WFedgeDetect1\obj\x86\Release\WFedgeDetect.Properties.Resources.resources
+C:\Users\Kovalevski\Documents\Visual Studio 2010\for_GitHub\WFedgeDetect1\WFedgeDetect1\obj\x86\Release\WFedgeDetect1.csproj.GenerateResource.Cache
+C:\VC_Projects\for_GitHub\WFedgeDetect1\WFedgeDetect1\obj\x86\Release\WFedgeDetect1.exe
+C:\VC_Projects\for_GitHub\WFedgeDetect1\WFedgeDetect1\obj\x86\Release\WFedgeDetect1.pdb
+C:\VC_Projects\for_GitHub\WFedgeDetect1\WFedgeDetect1\bin\Release\WFedgeDetect1.exe
+C:\VC_Projects\for_GitHub\WFedgeDetect1\WFedgeDetect1\bin\Release\WFedgeDetect1.pdb
+C:\VC_Projects\for_GitHub\WFedgeDetect1\WFedgeDetect1\obj\x86\Release\WFedgeDetect1.csprojResolveAssemblyReference.cache
+C:\VC_Projects\for_GitHub\WFedgeDetect1\WFedgeDetect1\obj\x86\Release\WFedgeDetect.Form1.resources
+C:\VC_Projects\for_GitHub\WFedgeDetect1\WFedgeDetect1\obj\x86\Release\WFedgeDetect.Properties.Resources.resources
+C:\VC_Projects\for_GitHub\WFedgeDetect1\WFedgeDetect1\obj\x86\Release\WFedgeDetect1.csproj.GenerateResource.Cache

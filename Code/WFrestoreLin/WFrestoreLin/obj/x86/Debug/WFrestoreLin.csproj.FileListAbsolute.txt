@@ -1,0 +1,16 @@
+C:\Users\Kovalevski\Documents\Visual Studio 2010\Projects\WFrestoreLin\WFrestoreLin\bin\Debug\WFrestoreLin.exe
+C:\Users\Kovalevski\Documents\Visual Studio 2010\Projects\WFrestoreLin\WFrestoreLin\bin\Debug\WFrestoreLin.pdb
+C:\Users\Kovalevski\Documents\Visual Studio 2010\Projects\WFrestoreLin\WFrestoreLin\obj\x86\Debug\WFrestoreLin.Form1.resources
+C:\Users\Kovalevski\Documents\Visual Studio 2010\Projects\WFrestoreLin\WFrestoreLin\obj\x86\Debug\WFrestoreLin.Properties.Resources.resources
+C:\Users\Kovalevski\Documents\Visual Studio 2010\Projects\WFrestoreLin\WFrestoreLin\obj\x86\Debug\WFrestoreLin.csproj.GenerateResource.Cache
+C:\Users\Kovalevski\Documents\Visual Studio 2010\Projects\WFrestoreLin\WFrestoreLin\obj\x86\Debug\WFrestoreLin.exe
+C:\Users\Kovalevski\Documents\Visual Studio 2010\Projects\WFrestoreLin\WFrestoreLin\obj\x86\Debug\WFrestoreLin.pdb
+C:\Users\Kovalevski\Documents\Visual Studio 2010\Projects\WFrestoreLin\WFrestoreLin\obj\x86\Debug\WFrestoreLin.csprojResolveAssemblyReference.cache
+C:\Users\Kovalevski\Documents\Visual Studio 2010\for_GitHub\WFrestoreLin\WFrestoreLin\bin\Debug\WFrestoreLin.exe
+C:\Users\Kovalevski\Documents\Visual Studio 2010\for_GitHub\WFrestoreLin\WFrestoreLin\bin\Debug\WFrestoreLin.pdb
+C:\Users\Kovalevski\Documents\Visual Studio 2010\for_GitHub\WFrestoreLin\WFrestoreLin\obj\x86\Debug\WFrestoreLin.csprojResolveAssemblyReference.cache
+C:\Users\Kovalevski\Documents\Visual Studio 2010\for_GitHub\WFrestoreLin\WFrestoreLin\obj\x86\Debug\WFrestoreLin.Form1.resources
+C:\Users\Kovalevski\Documents\Visual Studio 2010\for_GitHub\WFrestoreLin\WFrestoreLin\obj\x86\Debug\WFrestoreLin.Properties.Resources.resources
+C:\Users\Kovalevski\Documents\Visual Studio 2010\for_GitHub\WFrestoreLin\WFrestoreLin\obj\x86\Debug\WFrestoreLin.csproj.GenerateResource.Cache
+C:\Users\Kovalevski\Documents\Visual Studio 2010\for_GitHub\WFrestoreLin\WFrestoreLin\obj\x86\Debug\WFrestoreLin.exe
+C:\Users\Kovalevski\Documents\Visual Studio 2010\for_GitHub\WFrestoreLin\WFrestoreLin\obj\x86\Debug\WFrestoreLin.pdb

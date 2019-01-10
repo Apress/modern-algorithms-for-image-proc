@@ -1,0 +1,7 @@
+C:\Users\Kovalevski\Documents\Visual Studio 2010\WFProjects\WFellipseBikes\WFellipseBikes\bin\Debug\WFellipseBikes.exe
+C:\Users\Kovalevski\Documents\Visual Studio 2010\WFProjects\WFellipseBikes\WFellipseBikes\bin\Debug\WFellipseBikes.pdb
+C:\Users\Kovalevski\Documents\Visual Studio 2010\WFProjects\WFellipseBikes\WFellipseBikes\obj\x86\Debug\WFellipseBikes.Form1.resources
+C:\Users\Kovalevski\Documents\Visual Studio 2010\WFProjects\WFellipseBikes\WFellipseBikes\obj\x86\Debug\WFellipseBikes.Properties.Resources.resources
+C:\Users\Kovalevski\Documents\Visual Studio 2010\WFProjects\WFellipseBikes\WFellipseBikes\obj\x86\Debug\WFellipseBikes.csproj.GenerateResource.Cache
+C:\Users\Kovalevski\Documents\Visual Studio 2010\WFProjects\WFellipseBikes\WFellipseBikes\obj\x86\Debug\WFellipseBikes.exe
+C:\Users\Kovalevski\Documents\Visual Studio 2010\WFProjects\WFellipseBikes\WFellipseBikes\obj\x86\Debug\WFellipseBikes.pdb

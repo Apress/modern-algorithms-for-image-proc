@@ -1,0 +1,55 @@
+C:\Users\Kovalevski\AppData\Local\Temporary Projects\WFsegmentAndComp\obj\x86\Release\WFsegmentAndComp.Form1.resources
+C:\Users\Kovalevski\AppData\Local\Temporary Projects\WFsegmentAndComp\obj\x86\Release\WFsegmentAndComp.Properties.Resources.resources
+C:\Users\Kovalevski\AppData\Local\Temporary Projects\WFsegmentAndComp\obj\x86\Release\WFsegmentAndComp.csproj.GenerateResource.Cache
+C:\Users\Kovalevski\AppData\Local\Temporary Projects\WFsegmentAndComp\bin\Release\WFsegmentAndComp.exe
+C:\Users\Kovalevski\AppData\Local\Temporary Projects\WFsegmentAndComp\bin\Release\WFsegmentAndComp.pdb
+C:\Users\Kovalevski\AppData\Local\Temporary Projects\WFsegmentAndComp\obj\x86\Release\WFsegmentAndComp.exe
+C:\Users\Kovalevski\AppData\Local\Temporary Projects\WFsegmentAndComp\obj\x86\Release\WFsegmentAndComp.pdb
+C:\Users\Kovalevski\documents\visual studio 2010\Projects\WFsegmentAndComp\WFsegmentAndComp\obj\x86\Release\WFsegmentAndComp.exe
+C:\Users\Kovalevski\documents\visual studio 2010\Projects\WFsegmentAndComp\WFsegmentAndComp\obj\x86\Release\WFsegmentAndComp.pdb
+C:\Users\Kovalevski\Documents\Visual Studio 2010\Projects\WFsegmentAndComp\WFsegmentAndComp\obj\x86\Release\WFsegmentAndComp.Form1.resources
+C:\Users\Kovalevski\Documents\Visual Studio 2010\Projects\WFsegmentAndComp\WFsegmentAndComp\obj\x86\Release\WFsegmentAndComp.Properties.Resources.resources
+C:\Users\Kovalevski\Documents\Visual Studio 2010\Projects\WFsegmentAndComp\WFsegmentAndComp\obj\x86\Release\WFsegmentAndComp.csproj.GenerateResource.Cache
+C:\Users\Kovalevski\Documents\Visual Studio 2010\Projects\WFsegmentAndComp\WFsegmentAndComp\bin\Release\WFsegmentAndComp.exe
+C:\Users\Kovalevski\Documents\Visual Studio 2010\Projects\WFsegmentAndComp\WFsegmentAndComp\bin\Release\WFsegmentAndComp.pdb
+C:\Users\Kovalevski\Documents\Visual Studio 2010\Projects\WFsegmentAndComp\WFsegmentAndComp\obj\x86\Release\WFsegmentAndComp.csprojResolveAssemblyReference.cache
+C:\Users\Kovalevski\Documents\Visual Studio 2010\WF Projects\WFsegmentAndComp\WFsegmentAndComp\obj\x86\Release\WFsegmentAndComp.exe
+C:\Users\Kovalevski\Documents\Visual Studio 2010\WF Projects\WFsegmentAndComp\WFsegmentAndComp\obj\x86\Release\WFsegmentAndComp.pdb
+C:\Users\Kovalevski\Documents\Visual Studio 2010\WF Projects\WFsegmentAndComp\WFsegmentAndComp\obj\x86\Release\WFsegmentAndComp.csprojResolveAssemblyReference.cache
+C:\Users\Kovalevski\Documents\Visual Studio 2010\WF Projects\WFsegmentAndComp\WFsegmentAndComp\obj\x86\Release\WFsegmentAndComp.Form1.resources
+C:\Users\Kovalevski\Documents\Visual Studio 2010\WF Projects\WFsegmentAndComp\WFsegmentAndComp\obj\x86\Release\WFsegmentAndComp.Properties.Resources.resources
+C:\Users\Kovalevski\Documents\Visual Studio 2010\WF Projects\WFsegmentAndComp\WFsegmentAndComp\obj\x86\Release\WFsegmentAndComp.csproj.GenerateResource.Cache
+C:\Users\Kovalevski\Documents\Visual Studio 2010\WF Projects\WFsegmentAndComp\WFsegmentAndComp\bin\Release\WFsegmentAndComp.exe
+C:\Users\Kovalevski\Documents\Visual Studio 2010\WF Projects\WFsegmentAndComp\WFsegmentAndComp\bin\Release\WFsegmentAndComp.pdb
+C:\Users\Kovalevski\Documents\Visual Studio 2010\WFProjects\WFsegmentAndComp\WFsegmentAndComp\obj\x86\Release\WFsegmentAndComp.exe
+C:\Users\Kovalevski\Documents\Visual Studio 2010\WFProjects\WFsegmentAndComp\WFsegmentAndComp\obj\x86\Release\WFsegmentAndComp.pdb
+C:\Users\Kovalevski\Documents\Visual Studio 2010\WFProjects\WFsegmentAndComp\WFsegmentAndComp\bin\Release\WFsegmentAndComp.exe
+C:\Users\Kovalevski\Documents\Visual Studio 2010\WFProjects\WFsegmentAndComp\WFsegmentAndComp\bin\Release\WFsegmentAndComp.pdb
+C:\Users\Kovalevski\Documents\Visual Studio 2010\WFProjects\WFsegmentAndComp\WFsegmentAndComp\obj\x86\Release\WFsegmentAndComp.csprojResolveAssemblyReference.cache
+C:\Users\Kovalevski\Documents\Visual Studio 2010\WFProjects\WFsegmentAndComp\WFsegmentAndComp\obj\x86\Release\WFsegmentAndComp.Form1.resources
+C:\Users\Kovalevski\Documents\Visual Studio 2010\WFProjects\WFsegmentAndComp\WFsegmentAndComp\obj\x86\Release\WFsegmentAndComp.Properties.Resources.resources
+C:\Users\Kovalevski\Documents\Visual Studio 2010\WFProjects\WFsegmentAndComp\WFsegmentAndComp\obj\x86\Release\WFsegmentAndComp.csproj.GenerateResource.Cache
+C:\Users\Kovalevski\Documents\Visual Studio 2010\GitHub\WFsegmentAndComp\WFsegmentAndComp\obj\x86\Release\WFsegmentAndComp.exe
+C:\Users\Kovalevski\Documents\Visual Studio 2010\GitHub\WFsegmentAndComp\WFsegmentAndComp\obj\x86\Release\WFsegmentAndComp.pdb
+C:\Users\Kovalevski\Documents\Visual Studio 2010\GitHub\WFsegmentAndComp\WFsegmentAndComp\bin\Release\WFsegmentAndComp.exe
+C:\Users\Kovalevski\Documents\Visual Studio 2010\GitHub\WFsegmentAndComp\WFsegmentAndComp\bin\Release\WFsegmentAndComp.pdb
+C:\Users\Kovalevski\Documents\Visual Studio 2010\GitHub\WFsegmentAndComp\WFsegmentAndComp\obj\x86\Release\WFsegmentAndComp.csprojResolveAssemblyReference.cache
+C:\Users\Kovalevski\Documents\Visual Studio 2010\GitHub\WFsegmentAndComp\WFsegmentAndComp\obj\x86\Release\WFsegmentAndComp.Form1.resources
+C:\Users\Kovalevski\Documents\Visual Studio 2010\GitHub\WFsegmentAndComp\WFsegmentAndComp\obj\x86\Release\WFsegmentAndComp.Properties.Resources.resources
+C:\Users\Kovalevski\Documents\Visual Studio 2010\GitHub\WFsegmentAndComp\WFsegmentAndComp\obj\x86\Release\WFsegmentAndComp.csproj.GenerateResource.Cache
+C:\Users\Kovalevski\Documents\Visual Studio 2010\for_GitHub\WFsegmentAndComp\WFsegmentAndComp\obj\x86\Release\WFsegmentAndComp.exe
+C:\Users\Kovalevski\Documents\Visual Studio 2010\for_GitHub\WFsegmentAndComp\WFsegmentAndComp\obj\x86\Release\WFsegmentAndComp.pdb
+C:\Users\Kovalevski\Documents\Visual Studio 2010\for_GitHub\WFsegmentAndComp\WFsegmentAndComp\bin\Release\WFsegmentAndComp.exe
+C:\Users\Kovalevski\Documents\Visual Studio 2010\for_GitHub\WFsegmentAndComp\WFsegmentAndComp\bin\Release\WFsegmentAndComp.pdb
+C:\Users\Kovalevski\Documents\Visual Studio 2010\for_GitHub\WFsegmentAndComp\WFsegmentAndComp\obj\x86\Release\WFsegmentAndComp.csprojResolveAssemblyReference.cache
+C:\Users\Kovalevski\Documents\Visual Studio 2010\for_GitHub\WFsegmentAndComp\WFsegmentAndComp\obj\x86\Release\WFsegmentAndComp.Form1.resources
+C:\Users\Kovalevski\Documents\Visual Studio 2010\for_GitHub\WFsegmentAndComp\WFsegmentAndComp\obj\x86\Release\WFsegmentAndComp.Properties.Resources.resources
+C:\Users\Kovalevski\Documents\Visual Studio 2010\for_GitHub\WFsegmentAndComp\WFsegmentAndComp\obj\x86\Release\WFsegmentAndComp.csproj.GenerateResource.Cache
+C:\VC_Projects\for_GitHub\WFsegmentAndComp\WFsegmentAndComp\obj\x86\Release\WFsegmentAndComp.exe
+C:\VC_Projects\for_GitHub\WFsegmentAndComp\WFsegmentAndComp\obj\x86\Release\WFsegmentAndComp.pdb
+C:\VC_Projects\for_GitHub\WFsegmentAndComp\WFsegmentAndComp\bin\Release\WFsegmentAndComp.exe
+C:\VC_Projects\for_GitHub\WFsegmentAndComp\WFsegmentAndComp\bin\Release\WFsegmentAndComp.pdb
+C:\VC_Projects\for_GitHub\WFsegmentAndComp\WFsegmentAndComp\obj\x86\Release\WFsegmentAndComp.csprojResolveAssemblyReference.cache
+C:\VC_Projects\for_GitHub\WFsegmentAndComp\WFsegmentAndComp\obj\x86\Release\WFsegmentAndComp.Form1.resources
+C:\VC_Projects\for_GitHub\WFsegmentAndComp\WFsegmentAndComp\obj\x86\Release\WFsegmentAndComp.Properties.Resources.resources
+C:\VC_Projects\for_GitHub\WFsegmentAndComp\WFsegmentAndComp\obj\x86\Release\WFsegmentAndComp.csproj.GenerateResource.Cache

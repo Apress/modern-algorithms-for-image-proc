@@ -1,0 +1,34 @@
+C:\Users\Kovalevski\Documents\Visual Studio 2010\Projects\WFpolyArc\WFpolyArc\bin\Debug\WFpolyArc.exe
+C:\Users\Kovalevski\Documents\Visual Studio 2010\Projects\WFpolyArc\WFpolyArc\bin\Debug\WFpolyArc.pdb
+C:\Users\Kovalevski\Documents\Visual Studio 2010\Projects\WFpolyArc\WFpolyArc\obj\x86\Debug\WFpolyArc.Form1.resources
+C:\Users\Kovalevski\Documents\Visual Studio 2010\Projects\WFpolyArc\WFpolyArc\obj\x86\Debug\WFpolyArc.Properties.Resources.resources
+C:\Users\Kovalevski\Documents\Visual Studio 2010\Projects\WFpolyArc\WFpolyArc\obj\x86\Debug\WFpolyArc.csproj.GenerateResource.Cache
+C:\Users\Kovalevski\Documents\Visual Studio 2010\Projects\WFpolyArc\WFpolyArc\obj\x86\Debug\WFpolyArc.exe
+C:\Users\Kovalevski\Documents\Visual Studio 2010\Projects\WFpolyArc\WFpolyArc\obj\x86\Debug\WFpolyArc.pdb
+C:\Users\Kovalevski\Documents\Visual Studio 2010\Projects\WFpolyArc\WFpolyArc\obj\x86\Debug\WFpolyArc.csprojResolveAssemblyReference.cache
+C:\Users\Kovalevski\Documents\Visual Studio 2010\WFProjects\WFpolyArc\WFpolyArc\bin\Debug\WFpolyArc.exe
+C:\Users\Kovalevski\Documents\Visual Studio 2010\WFProjects\WFpolyArc\WFpolyArc\bin\Debug\WFpolyArc.pdb
+C:\Users\Kovalevski\Documents\Visual Studio 2010\WFProjects\WFpolyArc\WFpolyArc\obj\x86\Debug\WFpolyArc.csprojResolveAssemblyReference.cache
+C:\Users\Kovalevski\Documents\Visual Studio 2010\WFProjects\WFpolyArc\WFpolyArc\obj\x86\Debug\WFpolyArc.Form1.resources
+C:\Users\Kovalevski\Documents\Visual Studio 2010\WFProjects\WFpolyArc\WFpolyArc\obj\x86\Debug\WFpolyArc.Properties.Resources.resources
+C:\Users\Kovalevski\Documents\Visual Studio 2010\WFProjects\WFpolyArc\WFpolyArc\obj\x86\Debug\WFpolyArc.csproj.GenerateResource.Cache
+C:\Users\Kovalevski\Documents\Visual Studio 2010\WFProjects\WFpolyArc\WFpolyArc\obj\x86\Debug\WFpolyArc.exe
+C:\Users\Kovalevski\Documents\Visual Studio 2010\WFProjects\WFpolyArc\WFpolyArc\obj\x86\Debug\WFpolyArc.pdb
+C:\Users\Kovalevski\Documents\Visual Studio 2010\GitHub\WFpolyArc\WFpolyArc\bin\Debug\WFpolyArc.exe
+C:\Users\Kovalevski\Documents\Visual Studio 2010\GitHub\WFpolyArc\WFpolyArc\bin\Debug\WFpolyArc.pdb
+C:\Users\Kovalevski\Documents\Visual Studio 2010\GitHub\WFpolyArc\WFpolyArc\obj\x86\Debug\WFpolyArc.csprojResolveAssemblyReference.cache
+C:\Users\Kovalevski\Documents\Visual Studio 2010\GitHub\WFpolyArc\WFpolyArc\obj\x86\Debug\WFpolyArc.Form1.resources
+C:\Users\Kovalevski\Documents\Visual Studio 2010\GitHub\WFpolyArc\WFpolyArc\obj\x86\Debug\WFpolyArc.Properties.Resources.resources
+C:\Users\Kovalevski\Documents\Visual Studio 2010\GitHub\WFpolyArc\WFpolyArc\obj\x86\Debug\WFpolyArc.csproj.GenerateResource.Cache
+C:\Users\Kovalevski\Documents\Visual Studio 2010\GitHub\WFpolyArc\WFpolyArc\obj\x86\Debug\WFpolyArc.exe
+C:\Users\Kovalevski\Documents\Visual Studio 2010\GitHub\WFpolyArc\WFpolyArc\obj\x86\Debug\WFpolyArc.pdb
+C:\Users\Kovalevski\Documents\Visual Studio 2010\for_GitHub\WFpolyArc\WFpolyArc\bin\Debug\WFpolyArc.exe
+C:\Users\Kovalevski\Documents\Visual Studio 2010\for_GitHub\WFpolyArc\WFpolyArc\bin\Debug\WFpolyArc.pdb
+C:\Users\Kovalevski\Documents\Visual Studio 2010\for_GitHub\WFpolyArc\WFpolyArc\obj\x86\Debug\WFpolyArc.csprojResolveAssemblyReference.cache
+C:\Users\Kovalevski\Documents\Visual Studio 2010\for_GitHub\WFpolyArc\WFpolyArc\obj\x86\Debug\WFpolyArc.Form1.resources
+C:\Users\Kovalevski\Documents\Visual Studio 2010\for_GitHub\WFpolyArc\WFpolyArc\obj\x86\Debug\WFpolyArc.Properties.Resources.resources
+C:\Users\Kovalevski\Documents\Visual Studio 2010\for_GitHub\WFpolyArc\WFpolyArc\obj\x86\Debug\WFpolyArc.csproj.GenerateResource.Cache
+C:\Users\Kovalevski\Documents\Visual Studio 2010\for_GitHub\WFpolyArc\WFpolyArc\obj\x86\Debug\WFpolyArc.exe
+C:\Users\Kovalevski\Documents\Visual Studio 2010\for_GitHub\WFpolyArc\WFpolyArc\obj\x86\Debug\WFpolyArc.pdb
+C:\VC_Projects\for_GitHub\WFpolyArc\WFpolyArc\obj\x86\Debug\WFpolyArc.exe
+C:\VC_Projects\for_GitHub\WFpolyArc\WFpolyArc\obj\x86\Debug\WFpolyArc.pdb

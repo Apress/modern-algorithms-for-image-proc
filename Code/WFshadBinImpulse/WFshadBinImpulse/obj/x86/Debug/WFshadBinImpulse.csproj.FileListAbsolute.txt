@@ -1,0 +1,16 @@
+C:\Users\Kovalevski\Documents\Visual Studio 2010\Projects\WFshadBinImpulse\WFshadBinImpulse\bin\Debug\WFshadBinImpulse.exe
+C:\Users\Kovalevski\Documents\Visual Studio 2010\Projects\WFshadBinImpulse\WFshadBinImpulse\bin\Debug\WFshadBinImpulse.pdb
+C:\Users\Kovalevski\Documents\Visual Studio 2010\Projects\WFshadBinImpulse\WFshadBinImpulse\obj\x86\Debug\WFshadBinImpulse.Form1.resources
+C:\Users\Kovalevski\Documents\Visual Studio 2010\Projects\WFshadBinImpulse\WFshadBinImpulse\obj\x86\Debug\WFshadBinImpulse.Properties.Resources.resources
+C:\Users\Kovalevski\Documents\Visual Studio 2010\Projects\WFshadBinImpulse\WFshadBinImpulse\obj\x86\Debug\WFshadBinImpulse.csproj.GenerateResource.Cache
+C:\Users\Kovalevski\Documents\Visual Studio 2010\Projects\WFshadBinImpulse\WFshadBinImpulse\obj\x86\Debug\WFshadBinImpulse.exe
+C:\Users\Kovalevski\Documents\Visual Studio 2010\Projects\WFshadBinImpulse\WFshadBinImpulse\obj\x86\Debug\WFshadBinImpulse.pdb
+C:\Users\Kovalevski\Documents\Visual Studio 2010\Projects\WFshadBinImpulse\WFshadBinImpulse\obj\x86\Debug\WFshadBinImpulse.csprojResolveAssemblyReference.cache
+C:\Users\Kovalevski\Documents\Visual Studio 2010\WFProjects\WFshadBinImpulse\WFshadBinImpulse\bin\Debug\WFshadBinImpulse.exe
+C:\Users\Kovalevski\Documents\Visual Studio 2010\WFProjects\WFshadBinImpulse\WFshadBinImpulse\bin\Debug\WFshadBinImpulse.pdb
+C:\Users\Kovalevski\Documents\Visual Studio 2010\WFProjects\WFshadBinImpulse\WFshadBinImpulse\obj\x86\Debug\WFshadBinImpulse.csprojResolveAssemblyReference.cache
+C:\Users\Kovalevski\Documents\Visual Studio 2010\WFProjects\WFshadBinImpulse\WFshadBinImpulse\obj\x86\Debug\WFshadBinImpulse.Form1.resources
+C:\Users\Kovalevski\Documents\Visual Studio 2010\WFProjects\WFshadBinImpulse\WFshadBinImpulse\obj\x86\Debug\WFshadBinImpulse.Properties.Resources.resources
+C:\Users\Kovalevski\Documents\Visual Studio 2010\WFProjects\WFshadBinImpulse\WFshadBinImpulse\obj\x86\Debug\WFshadBinImpulse.csproj.GenerateResource.Cache
+C:\Users\Kovalevski\Documents\Visual Studio 2010\WFProjects\WFshadBinImpulse\WFshadBinImpulse\obj\x86\Debug\WFshadBinImpulse.exe
+C:\Users\Kovalevski\Documents\Visual Studio 2010\WFProjects\WFshadBinImpulse\WFshadBinImpulse\obj\x86\Debug\WFshadBinImpulse.pdb

@@ -1,0 +1,32 @@
+C:\Users\Kovalevski\documents\visual studio 2010\WFProjects\WFcompressPal\WFcompressPal\obj\x86\Release\WFcompressPal.Form1.resources
+C:\Users\Kovalevski\documents\visual studio 2010\WFProjects\WFcompressPal\WFcompressPal\obj\x86\Release\WFcompressPal.Properties.Resources.resources
+C:\Users\Kovalevski\documents\visual studio 2010\WFProjects\WFcompressPal\WFcompressPal\obj\x86\Release\WFcompressPal.csproj.GenerateResource.Cache
+C:\Users\Kovalevski\Documents\Visual Studio 2010\WFProjects\WFcompressPal\WFcompressPal\obj\x86\Release\WFcompressPal.csprojResolveAssemblyReference.cache
+C:\Users\Kovalevski\Documents\Visual Studio 2010\WFProjects\WFcompressPal\WFcompressPal\bin\Release\WFcompressPal.exe
+C:\Users\Kovalevski\Documents\Visual Studio 2010\WFProjects\WFcompressPal\WFcompressPal\bin\Release\WFcompressPal.pdb
+C:\Users\Kovalevski\Documents\Visual Studio 2010\WFProjects\WFcompressPal\WFcompressPal\obj\x86\Release\WFcompressPal.exe
+C:\Users\Kovalevski\Documents\Visual Studio 2010\WFProjects\WFcompressPal\WFcompressPal\obj\x86\Release\WFcompressPal.pdb
+C:\Users\Kovalevski\Documents\Visual Studio 2010\GitHub\WFcompressPal\WFcompressPal\obj\x86\Release\WFcompressPal.exe
+C:\Users\Kovalevski\Documents\Visual Studio 2010\GitHub\WFcompressPal\WFcompressPal\obj\x86\Release\WFcompressPal.pdb
+C:\Users\Kovalevski\Documents\Visual Studio 2010\GitHub\WFcompressPal\WFcompressPal\bin\Release\WFcompressPal.exe
+C:\Users\Kovalevski\Documents\Visual Studio 2010\GitHub\WFcompressPal\WFcompressPal\bin\Release\WFcompressPal.pdb
+C:\Users\Kovalevski\Documents\Visual Studio 2010\GitHub\WFcompressPal\WFcompressPal\obj\x86\Release\WFcompressPal.csprojResolveAssemblyReference.cache
+C:\Users\Kovalevski\Documents\Visual Studio 2010\GitHub\WFcompressPal\WFcompressPal\obj\x86\Release\WFcompressPal.Form1.resources
+C:\Users\Kovalevski\Documents\Visual Studio 2010\GitHub\WFcompressPal\WFcompressPal\obj\x86\Release\WFcompressPal.Properties.Resources.resources
+C:\Users\Kovalevski\Documents\Visual Studio 2010\GitHub\WFcompressPal\WFcompressPal\obj\x86\Release\WFcompressPal.csproj.GenerateResource.Cache
+C:\Users\Kovalevski\Documents\Visual Studio 2010\for_GitHub\WFcompressPal\WFcompressPal\obj\x86\Release\WFcompressPal.exe
+C:\Users\Kovalevski\Documents\Visual Studio 2010\for_GitHub\WFcompressPal\WFcompressPal\obj\x86\Release\WFcompressPal.pdb
+C:\Users\Kovalevski\Documents\Visual Studio 2010\for_GitHub\WFcompressPal\WFcompressPal\bin\Release\WFcompressPal.exe
+C:\Users\Kovalevski\Documents\Visual Studio 2010\for_GitHub\WFcompressPal\WFcompressPal\bin\Release\WFcompressPal.pdb
+C:\Users\Kovalevski\Documents\Visual Studio 2010\for_GitHub\WFcompressPal\WFcompressPal\obj\x86\Release\WFcompressPal.csprojResolveAssemblyReference.cache
+C:\Users\Kovalevski\Documents\Visual Studio 2010\for_GitHub\WFcompressPal\WFcompressPal\obj\x86\Release\WFcompressPal.Form1.resources
+C:\Users\Kovalevski\Documents\Visual Studio 2010\for_GitHub\WFcompressPal\WFcompressPal\obj\x86\Release\WFcompressPal.Properties.Resources.resources
+C:\Users\Kovalevski\Documents\Visual Studio 2010\for_GitHub\WFcompressPal\WFcompressPal\obj\x86\Release\WFcompressPal.csproj.GenerateResource.Cache
+C:\VC_Projects\for_GitHub\WFcompressPal\WFcompressPal\obj\x86\Release\WFcompressPal.exe
+C:\VC_Projects\for_GitHub\WFcompressPal\WFcompressPal\obj\x86\Release\WFcompressPal.pdb
+C:\VC_Projects\for_GitHub\WFcompressPal\WFcompressPal\bin\Release\WFcompressPal.exe
+C:\VC_Projects\for_GitHub\WFcompressPal\WFcompressPal\bin\Release\WFcompressPal.pdb
+C:\VC_Projects\for_GitHub\WFcompressPal\WFcompressPal\obj\x86\Release\WFcompressPal.csprojResolveAssemblyReference.cache
+C:\VC_Projects\for_GitHub\WFcompressPal\WFcompressPal\obj\x86\Release\WFcompressPal.Form1.resources
+C:\VC_Projects\for_GitHub\WFcompressPal\WFcompressPal\obj\x86\Release\WFcompressPal.Properties.Resources.resources
+C:\VC_Projects\for_GitHub\WFcompressPal\WFcompressPal\obj\x86\Release\WFcompressPal.csproj.GenerateResource.Cache

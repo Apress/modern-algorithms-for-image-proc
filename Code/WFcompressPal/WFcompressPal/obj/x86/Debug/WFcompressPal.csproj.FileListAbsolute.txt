@@ -1,0 +1,16 @@
+C:\Users\Kovalevski\Documents\Visual Studio 2010\WFProjects\WFcompressPal\WFcompressPal\bin\Debug\WFcompressPal.exe
+C:\Users\Kovalevski\Documents\Visual Studio 2010\WFProjects\WFcompressPal\WFcompressPal\bin\Debug\WFcompressPal.pdb
+C:\Users\Kovalevski\Documents\Visual Studio 2010\WFProjects\WFcompressPal\WFcompressPal\obj\x86\Debug\WFcompressPal.Form1.resources
+C:\Users\Kovalevski\Documents\Visual Studio 2010\WFProjects\WFcompressPal\WFcompressPal\obj\x86\Debug\WFcompressPal.Properties.Resources.resources
+C:\Users\Kovalevski\Documents\Visual Studio 2010\WFProjects\WFcompressPal\WFcompressPal\obj\x86\Debug\WFcompressPal.csproj.GenerateResource.Cache
+C:\Users\Kovalevski\Documents\Visual Studio 2010\WFProjects\WFcompressPal\WFcompressPal\obj\x86\Debug\WFcompressPal.exe
+C:\Users\Kovalevski\Documents\Visual Studio 2010\WFProjects\WFcompressPal\WFcompressPal\obj\x86\Debug\WFcompressPal.pdb
+C:\Users\Kovalevski\Documents\Visual Studio 2010\WFProjects\WFcompressPal\WFcompressPal\obj\x86\Debug\WFcompressPal.csprojResolveAssemblyReference.cache
+C:\Users\Kovalevski\Documents\Visual Studio 2010\for_GitHub\WFcompressPal\WFcompressPal\bin\Debug\WFcompressPal.exe
+C:\Users\Kovalevski\Documents\Visual Studio 2010\for_GitHub\WFcompressPal\WFcompressPal\bin\Debug\WFcompressPal.pdb
+C:\Users\Kovalevski\Documents\Visual Studio 2010\for_GitHub\WFcompressPal\WFcompressPal\obj\x86\Debug\WFcompressPal.csprojResolveAssemblyReference.cache
+C:\Users\Kovalevski\Documents\Visual Studio 2010\for_GitHub\WFcompressPal\WFcompressPal\obj\x86\Debug\WFcompressPal.Form1.resources
+C:\Users\Kovalevski\Documents\Visual Studio 2010\for_GitHub\WFcompressPal\WFcompressPal\obj\x86\Debug\WFcompressPal.Properties.Resources.resources
+C:\Users\Kovalevski\Documents\Visual Studio 2010\for_GitHub\WFcompressPal\WFcompressPal\obj\x86\Debug\WFcompressPal.csproj.GenerateResource.Cache
+C:\Users\Kovalevski\Documents\Visual Studio 2010\for_GitHub\WFcompressPal\WFcompressPal\obj\x86\Debug\WFcompressPal.exe
+C:\Users\Kovalevski\Documents\Visual Studio 2010\for_GitHub\WFcompressPal\WFcompressPal\obj\x86\Debug\WFcompressPal.pdb

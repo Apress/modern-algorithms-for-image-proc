@@ -1,0 +1,57 @@
+C:\Users\Kovalevski\AppData\Local\Temporary Projects\WFpiecewiseLinear\bin\Release\WFpiecewiseLinear.exe
+C:\Users\Kovalevski\AppData\Local\Temporary Projects\WFpiecewiseLinear\bin\Release\WFpiecewiseLinear.pdb
+C:\Users\Kovalevski\AppData\Local\Temporary Projects\WFpiecewiseLinear\obj\x86\Release\WFpiecewiseLinear.Form1.resources
+C:\Users\Kovalevski\AppData\Local\Temporary Projects\WFpiecewiseLinear\obj\x86\Release\WFpiecewiseLinear.Properties.Resources.resources
+C:\Users\Kovalevski\AppData\Local\Temporary Projects\WFpiecewiseLinear\obj\x86\Release\WFpiecewiseLinear.csproj.GenerateResource.Cache
+C:\Users\Kovalevski\AppData\Local\Temporary Projects\WFpiecewiseLinear\obj\x86\Release\WFpiecewiseLinear.exe
+C:\Users\Kovalevski\AppData\Local\Temporary Projects\WFpiecewiseLinear\obj\x86\Release\WFpiecewiseLinear.pdb
+C:\Users\Kovalevski\documents\visual studio 2010\Projects\WFpiecewiseLinear\WFpiecewiseLinear\obj\x86\Release\WFpiecewiseLinear.exe
+C:\Users\Kovalevski\documents\visual studio 2010\Projects\WFpiecewiseLinear\WFpiecewiseLinear\obj\x86\Release\WFpiecewiseLinear.pdb
+C:\Users\Kovalevski\Documents\Visual Studio 2010\Projects\WFpiecewiseLinear\WFpiecewiseLinear\bin\Release\WFpiecewiseLinear.exe
+C:\Users\Kovalevski\Documents\Visual Studio 2010\Projects\WFpiecewiseLinear\WFpiecewiseLinear\bin\Release\WFpiecewiseLinear.pdb
+C:\Users\Kovalevski\Documents\Visual Studio 2010\Projects\WFpiecewiseLinear\WFpiecewiseLinear\obj\x86\Release\WFpiecewiseLinear.Form1.resources
+C:\Users\Kovalevski\Documents\Visual Studio 2010\Projects\WFpiecewiseLinear\WFpiecewiseLinear\obj\x86\Release\WFpiecewiseLinear.Properties.Resources.resources
+C:\Users\Kovalevski\Documents\Visual Studio 2010\Projects\WFpiecewiseLinear\WFpiecewiseLinear\obj\x86\Release\WFpiecewiseLinear.csproj.GenerateResource.Cache
+C:\Users\Kovalevski\Documents\Visual Studio 2010\Projects\WFpiecewiseLinear\WFpiecewiseLinear\obj\x86\Release\WFpiecewiseLinear.csprojResolveAssemblyReference.cache
+C:\Users\Kovalevski\Documents\Visual Studio 2010\WF Projects\WFpiecewiseLinear\WFpiecewiseLinear\obj\x86\Release\WFpiecewiseLinear.exe
+C:\Users\Kovalevski\Documents\Visual Studio 2010\WF Projects\WFpiecewiseLinear\WFpiecewiseLinear\obj\x86\Release\WFpiecewiseLinear.pdb
+C:\Users\Kovalevski\Documents\Visual Studio 2010\WFProjects\WFpiecewiseLinear\WFpiecewiseLinear\obj\x86\Release\WFpiecewiseLinear.exe
+C:\Users\Kovalevski\Documents\Visual Studio 2010\WFProjects\WFpiecewiseLinear\WFpiecewiseLinear\obj\x86\Release\WFpiecewiseLinear.pdb
+C:\Users\Kovalevski\Documents\Visual Studio 2010\WFProjects\WFpiecewiseLinear\WFpiecewiseLinear\bin\Release\WFpiecewiseLinear.exe
+C:\Users\Kovalevski\Documents\Visual Studio 2010\WFProjects\WFpiecewiseLinear\WFpiecewiseLinear\bin\Release\WFpiecewiseLinear.pdb
+C:\Users\Kovalevski\Documents\Visual Studio 2010\WFProjects\WFpiecewiseLinear\WFpiecewiseLinear\obj\x86\Release\WFpiecewiseLinear.csprojResolveAssemblyReference.cache
+C:\Users\Kovalevski\Documents\Visual Studio 2010\WFProjects\WFpiecewiseLinear\WFpiecewiseLinear\obj\x86\Release\WFpiecewiseLinear.Form1.resources
+C:\Users\Kovalevski\Documents\Visual Studio 2010\WFProjects\WFpiecewiseLinear\WFpiecewiseLinear\obj\x86\Release\WFpiecewiseLinear.Properties.Resources.resources
+C:\Users\Kovalevski\Documents\Visual Studio 2010\WFProjects\WFpiecewiseLinear\WFpiecewiseLinear\obj\x86\Release\WFpiecewiseLinear.csproj.GenerateResource.Cache
+C:\Users\Kovalevski\Documents\Visual Studio 2010\GitHub\WFpiecewiseLinear\WFpiecewiseLinear\obj\x86\Release\WFpiecewiseLinear.exe
+C:\Users\Kovalevski\Documents\Visual Studio 2010\GitHub\WFpiecewiseLinear\WFpiecewiseLinear\obj\x86\Release\WFpiecewiseLinear.pdb
+C:\Users\Kovalevski\Documents\Visual Studio 2010\GitHub\WFpiecewiseLinear\WFpiecewiseLinear\bin\Release\WFpiecewiseLinear.exe
+C:\Users\Kovalevski\Documents\Visual Studio 2010\GitHub\WFpiecewiseLinear\WFpiecewiseLinear\bin\Release\WFpiecewiseLinear.pdb
+C:\Users\Kovalevski\Documents\Visual Studio 2010\GitHub\WFpiecewiseLinear\WFpiecewiseLinear\obj\x86\Release\WFpiecewiseLinear.csprojResolveAssemblyReference.cache
+C:\Users\Kovalevski\Documents\Visual Studio 2010\GitHub\WFpiecewiseLinear\WFpiecewiseLinear\obj\x86\Release\WFpiecewiseLinear.Form1.resources
+C:\Users\Kovalevski\Documents\Visual Studio 2010\GitHub\WFpiecewiseLinear\WFpiecewiseLinear\obj\x86\Release\WFpiecewiseLinear.Properties.Resources.resources
+C:\Users\Kovalevski\Documents\Visual Studio 2010\GitHub\WFpiecewiseLinear\WFpiecewiseLinear\obj\x86\Release\WFpiecewiseLinear.csproj.GenerateResource.Cache
+C:\Users\Kovalevski\Documents\Visual Studio 2010\Test a project\WFpiecewiseLinear\WFpiecewiseLinear\obj\x86\Release\WFpiecewiseLinear.exe
+C:\Users\Kovalevski\Documents\Visual Studio 2010\Test a project\WFpiecewiseLinear\WFpiecewiseLinear\obj\x86\Release\WFpiecewiseLinear.pdb
+C:\Users\Kovalevski\Documents\Visual Studio 2010\Test a project\WFpiecewiseLinear\WFpiecewiseLinear\bin\Release\WFpiecewiseLinear.exe
+C:\Users\Kovalevski\Documents\Visual Studio 2010\Test a project\WFpiecewiseLinear\WFpiecewiseLinear\bin\Release\WFpiecewiseLinear.pdb
+C:\Users\Kovalevski\Documents\Visual Studio 2010\Test a project\WFpiecewiseLinear\WFpiecewiseLinear\obj\x86\Release\WFpiecewiseLinear.csprojResolveAssemblyReference.cache
+C:\Users\Kovalevski\Documents\Visual Studio 2010\Test a project\WFpiecewiseLinear\WFpiecewiseLinear\obj\x86\Release\WFpiecewiseLinear.Form1.resources
+C:\Users\Kovalevski\Documents\Visual Studio 2010\Test a project\WFpiecewiseLinear\WFpiecewiseLinear\obj\x86\Release\WFpiecewiseLinear.Properties.Resources.resources
+C:\Users\Kovalevski\Documents\Visual Studio 2010\Test a project\WFpiecewiseLinear\WFpiecewiseLinear\obj\x86\Release\WFpiecewiseLinear.csproj.GenerateResource.Cache
+C:\Users\Kovalevski\Documents\Visual Studio 2010\for_GitHub\WFpiecewiseLinear\WFpiecewiseLinear\obj\x86\Release\WFpiecewiseLinear.exe
+C:\Users\Kovalevski\Documents\Visual Studio 2010\for_GitHub\WFpiecewiseLinear\WFpiecewiseLinear\obj\x86\Release\WFpiecewiseLinear.pdb
+C:\Users\Kovalevski\Documents\Visual Studio 2010\for_GitHub\WFpiecewiseLinear\WFpiecewiseLinear\bin\Release\WFpiecewiseLinear.exe
+C:\Users\Kovalevski\Documents\Visual Studio 2010\for_GitHub\WFpiecewiseLinear\WFpiecewiseLinear\bin\Release\WFpiecewiseLinear.pdb
+C:\Users\Kovalevski\Documents\Visual Studio 2010\for_GitHub\WFpiecewiseLinear\WFpiecewiseLinear\obj\x86\Release\WFpiecewiseLinear.csprojResolveAssemblyReference.cache
+C:\Users\Kovalevski\Documents\Visual Studio 2010\for_GitHub\WFpiecewiseLinear\WFpiecewiseLinear\obj\x86\Release\WFpiecewiseLinear.Form1.resources
+C:\Users\Kovalevski\Documents\Visual Studio 2010\for_GitHub\WFpiecewiseLinear\WFpiecewiseLinear\obj\x86\Release\WFpiecewiseLinear.Properties.Resources.resources
+C:\Users\Kovalevski\Documents\Visual Studio 2010\for_GitHub\WFpiecewiseLinear\WFpiecewiseLinear\obj\x86\Release\WFpiecewiseLinear.csproj.GenerateResource.Cache
+C:\VC_Projects\for_GitHub\WFpiecewiseLinear\WFpiecewiseLinear\obj\x86\Release\WFpiecewiseLinear.exe
+C:\VC_Projects\for_GitHub\WFpiecewiseLinear\WFpiecewiseLinear\bin\Release\WFpiecewiseLinear.exe
+C:\VC_Projects\for_GitHub\WFpiecewiseLinear\WFpiecewiseLinear\bin\Release\WFpiecewiseLinear.pdb
+C:\VC_Projects\for_GitHub\WFpiecewiseLinear\WFpiecewiseLinear\obj\x86\Release\WFpiecewiseLinear.csprojResolveAssemblyReference.cache
+C:\VC_Projects\for_GitHub\WFpiecewiseLinear\WFpiecewiseLinear\obj\x86\Release\WFpiecewiseLinear.Form1.resources
+C:\VC_Projects\for_GitHub\WFpiecewiseLinear\WFpiecewiseLinear\obj\x86\Release\WFpiecewiseLinear.Properties.Resources.resources
+C:\VC_Projects\for_GitHub\WFpiecewiseLinear\WFpiecewiseLinear\obj\x86\Release\WFpiecewiseLinear.csproj.GenerateResource.Cache
+C:\VC_Projects\for_GitHub\WFpiecewiseLinear\WFpiecewiseLinear\obj\x86\Release\WFpiecewiseLinear.pdb

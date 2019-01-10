@@ -1,0 +1,14 @@
+C:\Users\Kovalevski\AppData\Local\Temporary Projects\WFcellDivision\bin\Debug\WFcellDivision.exe
+C:\Users\Kovalevski\AppData\Local\Temporary Projects\WFcellDivision\bin\Debug\WFcellDivision.pdb
+C:\Users\Kovalevski\AppData\Local\Temporary Projects\WFcellDivision\obj\x86\Debug\WFcellDivision.Form1.resources
+C:\Users\Kovalevski\AppData\Local\Temporary Projects\WFcellDivision\obj\x86\Debug\WFcellDivision.Properties.Resources.resources
+C:\Users\Kovalevski\AppData\Local\Temporary Projects\WFcellDivision\obj\x86\Debug\WFcellDivision.csproj.GenerateResource.Cache
+C:\Users\Kovalevski\AppData\Local\Temporary Projects\WFcellDivision\obj\x86\Debug\WFcellDivision.exe
+C:\Users\Kovalevski\AppData\Local\Temporary Projects\WFcellDivision\obj\x86\Debug\WFcellDivision.pdb
+C:\Users\Kovalevski\Documents\Visual Studio 2010\WFProjects\WFcellDivision\WFcellDivision\bin\Debug\WFcellDivision.exe
+C:\Users\Kovalevski\Documents\Visual Studio 2010\WFProjects\WFcellDivision\WFcellDivision\bin\Debug\WFcellDivision.pdb
+C:\Users\Kovalevski\Documents\Visual Studio 2010\WFProjects\WFcellDivision\WFcellDivision\obj\x86\Debug\WFcellDivision.Form1.resources
+C:\Users\Kovalevski\Documents\Visual Studio 2010\WFProjects\WFcellDivision\WFcellDivision\obj\x86\Debug\WFcellDivision.Properties.Resources.resources
+C:\Users\Kovalevski\Documents\Visual Studio 2010\WFProjects\WFcellDivision\WFcellDivision\obj\x86\Debug\WFcellDivision.csproj.GenerateResource.Cache
+C:\Users\Kovalevski\Documents\Visual Studio 2010\WFProjects\WFcellDivision\WFcellDivision\obj\x86\Debug\WFcellDivision.exe
+C:\Users\Kovalevski\Documents\Visual Studio 2010\WFProjects\WFcellDivision\WFcellDivision\obj\x86\Debug\WFcellDivision.pdb

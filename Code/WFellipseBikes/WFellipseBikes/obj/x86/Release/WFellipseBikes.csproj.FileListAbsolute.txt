@@ -1,0 +1,31 @@
+C:\Users\Kovalevski\AppData\Local\Temporary Projects\WFellipseBikes\obj\x86\Release\WFellipseBikes.Form1.resources
+C:\Users\Kovalevski\AppData\Local\Temporary Projects\WFellipseBikes\obj\x86\Release\WFellipseBikes.Properties.Resources.resources
+C:\Users\Kovalevski\AppData\Local\Temporary Projects\WFellipseBikes\obj\x86\Release\WFellipseBikes.csproj.GenerateResource.Cache
+C:\Users\Kovalevski\AppData\Local\Temporary Projects\WFellipseBikes\bin\Release\WFellipseBikes.exe
+C:\Users\Kovalevski\AppData\Local\Temporary Projects\WFellipseBikes\bin\Release\WFellipseBikes.pdb
+C:\Users\Kovalevski\AppData\Local\Temporary Projects\WFellipseBikes\obj\x86\Release\WFellipseBikes.exe
+C:\Users\Kovalevski\AppData\Local\Temporary Projects\WFellipseBikes\obj\x86\Release\WFellipseBikes.pdb
+C:\Users\Kovalevski\documents\visual studio 2010\WFProjects\WFellipseBikes\WFellipseBikes\obj\x86\Release\WFellipseBikes.exe
+C:\Users\Kovalevski\documents\visual studio 2010\WFProjects\WFellipseBikes\WFellipseBikes\obj\x86\Release\WFellipseBikes.pdb
+C:\Users\Kovalevski\Documents\Visual Studio 2010\WFProjects\WFellipseBikes\WFellipseBikes\bin\Release\WFellipseBikes.exe
+C:\Users\Kovalevski\Documents\Visual Studio 2010\WFProjects\WFellipseBikes\WFellipseBikes\bin\Release\WFellipseBikes.pdb
+C:\Users\Kovalevski\Documents\Visual Studio 2010\WFProjects\WFellipseBikes\WFellipseBikes\obj\x86\Release\WFellipseBikes.Form1.resources
+C:\Users\Kovalevski\Documents\Visual Studio 2010\WFProjects\WFellipseBikes\WFellipseBikes\obj\x86\Release\WFellipseBikes.Properties.Resources.resources
+C:\Users\Kovalevski\Documents\Visual Studio 2010\WFProjects\WFellipseBikes\WFellipseBikes\obj\x86\Release\WFellipseBikes.csproj.GenerateResource.Cache
+C:\Users\Kovalevski\Documents\Visual Studio 2010\WFProjects\WFellipseBikes\WFellipseBikes\obj\x86\Release\WFellipseBikes.csprojResolveAssemblyReference.cache
+C:\Users\Kovalevski\Documents\Visual Studio 2010\for_GitHub\WFellipseBikes\WFellipseBikes\obj\x86\Release\WFellipseBikes.exe
+C:\Users\Kovalevski\Documents\Visual Studio 2010\for_GitHub\WFellipseBikes\WFellipseBikes\obj\x86\Release\WFellipseBikes.pdb
+C:\Users\Kovalevski\Documents\Visual Studio 2010\for_GitHub\WFellipseBikes\WFellipseBikes\bin\Release\WFellipseBikes.exe
+C:\Users\Kovalevski\Documents\Visual Studio 2010\for_GitHub\WFellipseBikes\WFellipseBikes\bin\Release\WFellipseBikes.pdb
+C:\Users\Kovalevski\Documents\Visual Studio 2010\for_GitHub\WFellipseBikes\WFellipseBikes\obj\x86\Release\WFellipseBikes.csprojResolveAssemblyReference.cache
+C:\Users\Kovalevski\Documents\Visual Studio 2010\for_GitHub\WFellipseBikes\WFellipseBikes\obj\x86\Release\WFellipseBikes.Form1.resources
+C:\Users\Kovalevski\Documents\Visual Studio 2010\for_GitHub\WFellipseBikes\WFellipseBikes\obj\x86\Release\WFellipseBikes.Properties.Resources.resources
+C:\Users\Kovalevski\Documents\Visual Studio 2010\for_GitHub\WFellipseBikes\WFellipseBikes\obj\x86\Release\WFellipseBikes.csproj.GenerateResource.Cache
+C:\VC_Projects\for_GitHub\WFellipseBikes\WFellipseBikes\obj\x86\Release\WFellipseBikes.exe
+C:\VC_Projects\for_GitHub\WFellipseBikes\WFellipseBikes\obj\x86\Release\WFellipseBikes.pdb
+C:\VC_Projects\for_GitHub\WFellipseBikes\WFellipseBikes\bin\Release\WFellipseBikes.exe
+C:\VC_Projects\for_GitHub\WFellipseBikes\WFellipseBikes\bin\Release\WFellipseBikes.pdb
+C:\VC_Projects\for_GitHub\WFellipseBikes\WFellipseBikes\obj\x86\Release\WFellipseBikes.csprojResolveAssemblyReference.cache
+C:\VC_Projects\for_GitHub\WFellipseBikes\WFellipseBikes\obj\x86\Release\WFellipseBikes.Form1.resources
+C:\VC_Projects\for_GitHub\WFellipseBikes\WFellipseBikes\obj\x86\Release\WFellipseBikes.Properties.Resources.resources
+C:\VC_Projects\for_GitHub\WFellipseBikes\WFellipseBikes\obj\x86\Release\WFellipseBikes.csproj.GenerateResource.Cache

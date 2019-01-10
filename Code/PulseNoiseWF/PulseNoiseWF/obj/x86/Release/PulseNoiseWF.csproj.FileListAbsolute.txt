@@ -1,0 +1,47 @@
+C:\Users\Kovalevski\AppData\Local\Temporary Projects\PulseNoiseWF\obj\x86\Release\PulseNoiseWF.Form1.resources
+C:\Users\Kovalevski\AppData\Local\Temporary Projects\PulseNoiseWF\obj\x86\Release\PulseNoiseWF.Properties.Resources.resources
+C:\Users\Kovalevski\AppData\Local\Temporary Projects\PulseNoiseWF\obj\x86\Release\PulseNoiseWF.csproj.GenerateResource.Cache
+C:\Users\Kovalevski\AppData\Local\Temporary Projects\PulseNoiseWF\bin\Release\PulseNoiseWF.exe
+C:\Users\Kovalevski\AppData\Local\Temporary Projects\PulseNoiseWF\bin\Release\PulseNoiseWF.pdb
+C:\Users\Kovalevski\AppData\Local\Temporary Projects\PulseNoiseWF\obj\x86\Release\PulseNoiseWF.exe
+C:\Users\Kovalevski\AppData\Local\Temporary Projects\PulseNoiseWF\obj\x86\Release\PulseNoiseWF.pdb
+C:\Users\Kovalevski\documents\visual studio 2010\Projects\PulseNoiseWF\PulseNoiseWF\obj\x86\Release\PulseNoiseWF.exe
+C:\Users\Kovalevski\documents\visual studio 2010\Projects\PulseNoiseWF\PulseNoiseWF\obj\x86\Release\PulseNoiseWF.pdb
+C:\Users\Kovalevski\Documents\Visual Studio 2010\Projects\PulseNoiseWF\PulseNoiseWF\bin\Release\PulseNoiseWF.exe
+C:\Users\Kovalevski\Documents\Visual Studio 2010\Projects\PulseNoiseWF\PulseNoiseWF\bin\Release\PulseNoiseWF.pdb
+C:\Users\Kovalevski\Documents\Visual Studio 2010\Projects\PulseNoiseWF\PulseNoiseWF\obj\x86\Release\PulseNoiseWF.Form1.resources
+C:\Users\Kovalevski\Documents\Visual Studio 2010\Projects\PulseNoiseWF\PulseNoiseWF\obj\x86\Release\PulseNoiseWF.Properties.Resources.resources
+C:\Users\Kovalevski\Documents\Visual Studio 2010\Projects\PulseNoiseWF\PulseNoiseWF\obj\x86\Release\PulseNoiseWF.csproj.GenerateResource.Cache
+C:\Users\Kovalevski\Documents\Visual Studio 2010\Projects\PulseNoiseWF\PulseNoiseWF\obj\x86\Release\PulseNoiseWF.csprojResolveAssemblyReference.cache
+C:\Users\Kovalevski\Documents\Visual Studio 2010\WFProjects\PulseNoiseWF\PulseNoiseWF\obj\x86\Release\PulseNoiseWF.exe
+C:\Users\Kovalevski\Documents\Visual Studio 2010\WFProjects\PulseNoiseWF\PulseNoiseWF\obj\x86\Release\PulseNoiseWF.pdb
+C:\Users\Kovalevski\Documents\Visual Studio 2010\WFProjects\PulseNoiseWF\PulseNoiseWF\bin\Release\PulseNoiseWF.exe
+C:\Users\Kovalevski\Documents\Visual Studio 2010\WFProjects\PulseNoiseWF\PulseNoiseWF\bin\Release\PulseNoiseWF.pdb
+C:\Users\Kovalevski\Documents\Visual Studio 2010\WFProjects\PulseNoiseWF\PulseNoiseWF\obj\x86\Release\PulseNoiseWF.csprojResolveAssemblyReference.cache
+C:\Users\Kovalevski\Documents\Visual Studio 2010\WFProjects\PulseNoiseWF\PulseNoiseWF\obj\x86\Release\PulseNoiseWF.Form1.resources
+C:\Users\Kovalevski\Documents\Visual Studio 2010\WFProjects\PulseNoiseWF\PulseNoiseWF\obj\x86\Release\PulseNoiseWF.Properties.Resources.resources
+C:\Users\Kovalevski\Documents\Visual Studio 2010\WFProjects\PulseNoiseWF\PulseNoiseWF\obj\x86\Release\PulseNoiseWF.csproj.GenerateResource.Cache
+C:\Users\Kovalevski\Documents\Visual Studio 2010\GitHub\PulseNoiseWF\PulseNoiseWF\bin\Release\PulseNoiseWF.exe
+C:\Users\Kovalevski\Documents\Visual Studio 2010\GitHub\PulseNoiseWF\PulseNoiseWF\bin\Release\PulseNoiseWF.pdb
+C:\Users\Kovalevski\Documents\Visual Studio 2010\GitHub\PulseNoiseWF\PulseNoiseWF\obj\x86\Release\PulseNoiseWF.csprojResolveAssemblyReference.cache
+C:\Users\Kovalevski\Documents\Visual Studio 2010\GitHub\PulseNoiseWF\PulseNoiseWF\obj\x86\Release\PulseNoiseWF.Form1.resources
+C:\Users\Kovalevski\Documents\Visual Studio 2010\GitHub\PulseNoiseWF\PulseNoiseWF\obj\x86\Release\PulseNoiseWF.Properties.Resources.resources
+C:\Users\Kovalevski\Documents\Visual Studio 2010\GitHub\PulseNoiseWF\PulseNoiseWF\obj\x86\Release\PulseNoiseWF.csproj.GenerateResource.Cache
+C:\Users\Kovalevski\Documents\Visual Studio 2010\GitHub\PulseNoiseWF\PulseNoiseWF\obj\x86\Release\PulseNoiseWF.exe
+C:\Users\Kovalevski\Documents\Visual Studio 2010\GitHub\PulseNoiseWF\PulseNoiseWF\obj\x86\Release\PulseNoiseWF.pdb
+C:\Users\Kovalevski\Documents\Visual Studio 2010\for_GitHub\PulseNoiseWF\PulseNoiseWF\obj\x86\Release\PulseNoiseWF.exe
+C:\Users\Kovalevski\Documents\Visual Studio 2010\for_GitHub\PulseNoiseWF\PulseNoiseWF\obj\x86\Release\PulseNoiseWF.pdb
+C:\Users\Kovalevski\Documents\Visual Studio 2010\for_GitHub\PulseNoiseWF\PulseNoiseWF\obj\x86\Release\PulseNoiseWF.csprojResolveAssemblyReference.cache
+C:\Users\Kovalevski\Documents\Visual Studio 2010\for_GitHub\PulseNoiseWF\PulseNoiseWF\obj\x86\Release\PulseNoiseWF.Form1.resources
+C:\Users\Kovalevski\Documents\Visual Studio 2010\for_GitHub\PulseNoiseWF\PulseNoiseWF\obj\x86\Release\PulseNoiseWF.Properties.Resources.resources
+C:\Users\Kovalevski\Documents\Visual Studio 2010\for_GitHub\PulseNoiseWF\PulseNoiseWF\obj\x86\Release\PulseNoiseWF.csproj.GenerateResource.Cache
+C:\Users\Kovalevski\Documents\Visual Studio 2010\for_GitHub\PulseNoiseWF\PulseNoiseWF\bin\Release\PulseNoiseWF.exe
+C:\Users\Kovalevski\Documents\Visual Studio 2010\for_GitHub\PulseNoiseWF\PulseNoiseWF\bin\Release\PulseNoiseWF.pdb
+C:\VC_Projects\for_GitHub\PulseNoiseWF\PulseNoiseWF\obj\x86\Release\PulseNoiseWF.exe
+C:\VC_Projects\for_GitHub\PulseNoiseWF\PulseNoiseWF\obj\x86\Release\PulseNoiseWF.pdb
+C:\VC_Projects\for_GitHub\PulseNoiseWF\PulseNoiseWF\bin\Release\PulseNoiseWF.exe
+C:\VC_Projects\for_GitHub\PulseNoiseWF\PulseNoiseWF\bin\Release\PulseNoiseWF.pdb
+C:\VC_Projects\for_GitHub\PulseNoiseWF\PulseNoiseWF\obj\x86\Release\PulseNoiseWF.csprojResolveAssemblyReference.cache
+C:\VC_Projects\for_GitHub\PulseNoiseWF\PulseNoiseWF\obj\x86\Release\PulseNoiseWF.Form1.resources
+C:\VC_Projects\for_GitHub\PulseNoiseWF\PulseNoiseWF\obj\x86\Release\PulseNoiseWF.Properties.Resources.resources
+C:\VC_Projects\for_GitHub\PulseNoiseWF\PulseNoiseWF\obj\x86\Release\PulseNoiseWF.csproj.GenerateResource.Cache

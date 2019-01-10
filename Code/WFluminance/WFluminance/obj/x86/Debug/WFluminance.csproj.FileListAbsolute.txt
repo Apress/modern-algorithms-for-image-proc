@@ -1,0 +1,9 @@
+C:\Users\Kovalevski\Documents\Visual Studio 2010\WFProjects\WFluminance\WFluminance\obj\x86\Debug\WFluminance.Form1.resources
+C:\Users\Kovalevski\Documents\Visual Studio 2010\WFProjects\WFluminance\WFluminance\obj\x86\Debug\WFluminance.Properties.Resources.resources
+C:\Users\Kovalevski\Documents\Visual Studio 2010\WFProjects\WFluminance\WFluminance\obj\x86\Debug\WFluminance.csproj.GenerateResource.Cache
+C:\Users\Kovalevski\Documents\Visual Studio 2010\WFProjects\WFluminance\WFluminance\bin\Debug\WFluminance.exe
+C:\Users\Kovalevski\Documents\Visual Studio 2010\WFProjects\WFluminance\WFluminance\bin\Debug\WFluminance.pdb
+C:\Users\Kovalevski\Documents\Visual Studio 2010\WFProjects\WFluminance\WFluminance\obj\x86\Debug\WFluminance.exe
+C:\Users\Kovalevski\Documents\Visual Studio 2010\WFProjects\WFluminance\WFluminance\obj\x86\Debug\WFluminance.pdb
+C:\Users\Kovalevski\Documents\Visual Studio 2010\for_GitHub\WFluminance\WFluminance\obj\x86\Debug\WFluminance.exe
+C:\Users\Kovalevski\Documents\Visual Studio 2010\for_GitHub\WFluminance\WFluminance\obj\x86\Debug\WFluminance.pdb

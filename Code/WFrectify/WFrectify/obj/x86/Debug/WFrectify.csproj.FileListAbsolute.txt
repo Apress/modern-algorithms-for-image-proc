@@ -1,0 +1,28 @@
+C:\Users\Kovalevski\Documents\Visual Studio 2010\Projects\WFrectify\WFrectify\bin\Debug\WFrectify.exe
+C:\Users\Kovalevski\Documents\Visual Studio 2010\Projects\WFrectify\WFrectify\bin\Debug\WFrectify.pdb
+C:\Users\Kovalevski\Documents\Visual Studio 2010\Projects\WFrectify\WFrectify\obj\x86\Debug\WFrectify.Form1.resources
+C:\Users\Kovalevski\Documents\Visual Studio 2010\Projects\WFrectify\WFrectify\obj\x86\Debug\WFrectify.Properties.Resources.resources
+C:\Users\Kovalevski\Documents\Visual Studio 2010\Projects\WFrectify\WFrectify\obj\x86\Debug\WFrectify.csproj.GenerateResource.Cache
+C:\Users\Kovalevski\Documents\Visual Studio 2010\Projects\WFrectify\WFrectify\obj\x86\Debug\WFrectify.exe
+C:\Users\Kovalevski\Documents\Visual Studio 2010\Projects\WFrectify\WFrectify\obj\x86\Debug\WFrectify.pdb
+C:\Users\Kovalevski\Documents\Visual Studio 2010\WFProjects\WFrectify\WFrectify\bin\Debug\WFrectify.exe
+C:\Users\Kovalevski\Documents\Visual Studio 2010\WFProjects\WFrectify\WFrectify\bin\Debug\WFrectify.pdb
+C:\Users\Kovalevski\Documents\Visual Studio 2010\WFProjects\WFrectify\WFrectify\obj\x86\Debug\WFrectify.Form1.resources
+C:\Users\Kovalevski\Documents\Visual Studio 2010\WFProjects\WFrectify\WFrectify\obj\x86\Debug\WFrectify.Properties.Resources.resources
+C:\Users\Kovalevski\Documents\Visual Studio 2010\WFProjects\WFrectify\WFrectify\obj\x86\Debug\WFrectify.csproj.GenerateResource.Cache
+C:\Users\Kovalevski\Documents\Visual Studio 2010\WFProjects\WFrectify\WFrectify\obj\x86\Debug\WFrectify.exe
+C:\Users\Kovalevski\Documents\Visual Studio 2010\WFProjects\WFrectify\WFrectify\obj\x86\Debug\WFrectify.pdb
+C:\Users\Kovalevski\Documents\Visual Studio 2010\for_GitHub\WFrectify\WFrectify\obj\x86\Debug\WFrectify.exe
+C:\Users\Kovalevski\Documents\Visual Studio 2010\for_GitHub\WFrectify\WFrectify\obj\x86\Debug\WFrectify.pdb
+C:\Users\Kovalevski\Documents\Visual Studio 2010\for_GitHub\WFrectify\WFrectify\bin\Debug\WFrectify.exe
+C:\Users\Kovalevski\Documents\Visual Studio 2010\for_GitHub\WFrectify\WFrectify\bin\Debug\WFrectify.pdb
+C:\Users\Kovalevski\Documents\Visual Studio 2010\for_GitHub\WFrectify\WFrectify\obj\x86\Debug\WFrectify.Form1.resources
+C:\Users\Kovalevski\Documents\Visual Studio 2010\for_GitHub\WFrectify\WFrectify\obj\x86\Debug\WFrectify.Properties.Resources.resources
+C:\Users\Kovalevski\Documents\Visual Studio 2010\for_GitHub\WFrectify\WFrectify\obj\x86\Debug\WFrectify.csproj.GenerateResource.Cache
+C:\VC_Projects\for_GitHub\WFrectify\WFrectify\bin\Debug\WFrectify.exe
+C:\VC_Projects\for_GitHub\WFrectify\WFrectify\bin\Debug\WFrectify.pdb
+C:\VC_Projects\for_GitHub\WFrectify\WFrectify\obj\x86\Debug\WFrectify.Form1.resources
+C:\VC_Projects\for_GitHub\WFrectify\WFrectify\obj\x86\Debug\WFrectify.Properties.Resources.resources
+C:\VC_Projects\for_GitHub\WFrectify\WFrectify\obj\x86\Debug\WFrectify.csproj.GenerateResource.Cache
+C:\VC_Projects\for_GitHub\WFrectify\WFrectify\obj\x86\Debug\WFrectify.exe
+C:\VC_Projects\for_GitHub\WFrectify\WFrectify\obj\x86\Debug\WFrectify.pdb
